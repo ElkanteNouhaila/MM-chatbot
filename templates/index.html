@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Chatbot Marjane Mall</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div id="chatbot-icone">
+        <i class="fas fa-comment open_btn"></i>
+
+    </div>
+    <section class="chatbot-container">
+        <div class=" titre">
+        <h1 class="title">Chatbot Marjane Mall</h1>
+        <i class="fa-solid fa-xmark"></i>
+        </div>
+        <div class="chat">
+            <section class="chatbox"> </section>
+            <div class="footer">
+                <input type="text" id="user-input" placeholder="Posez votre question...">
+                <button class="send_btn">
+                    <i class="fa-regular fa-paper-plane"></i>
+                    <span>Envoyer</span>
+                </button>
+            </div>
+        </div>
+    </section>
+    <script src="https://unpkg.com/compromise@13.11.3/builds/compromise.min.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>

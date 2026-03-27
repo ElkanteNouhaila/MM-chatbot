@@ -1,0 +1,6 @@
+Flask
+tensorflow
+nltk
+pyodbc
+numpy
+flask-cors

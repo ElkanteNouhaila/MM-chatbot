@@ -1,0 +1,508 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Bonjour",
+          "Salut",
+          "Hello",
+          "Coucou",
+          "Bonsoir",
+          "Bonjour, comment ça va ?",
+          "salam",
+          "Hey",
+          "Yo",
+          "Bonne journée",
+          "Salam alikoum",
+          "cc",
+          "Hi",
+          "Good morning",
+          "Good afternoon",
+          "Marhaba",
+          "Ahlan",
+          "Bonjour à tous",
+          "Salut tout le monde",
+          "Comment allez-vous ?",
+          "Ça va ?"
+        ],
+        "responses": [
+          "Bonjour et bienvenue chez Marjane Mall ! Comment puis-je vous aider aujourd'hui ?",
+          "Salutations ! Prêt(e) à faire du shopping ? Dites-moi ce que vous cherchez.",
+          "Salam ! Comment puis-je vous assister pour vos achats aujourd'hui ?",
+          "Hello ! Bienvenue sur Marjane Mall, votre destination shopping préférée.",
+          "Bonjour ! Que puis-je faire pour vous aujourd'hui ?",
+          "Salam alikoum ! Comment puis-je vous aider ?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Au revoir",
+          "Je m'en vais",
+          "Ciao",
+          "À plus tard",
+          "Je m'en vais",
+          "À bientôt",
+          "Je quitte",
+          "Bye",
+          "A la prochaine",
+          "Bonne soirée",
+          "Je pars maintenant",
+          "Maa salama",
+          "Allah ihennik",
+          "Goodbye",
+          "See you later",
+          "À plus",
+          "Bonne nuit",
+          "Je dois y aller",
+          "C'est tout pour moi",
+          "À demain",
+          "Tchao",
+          "Bisous"
+        ],
+        "responses": [
+          "Au revoir ! Passez une bonne journée.",
+          "Au revoir ! Merci de choisir Marjane Mall.",
+          "À bientôt ! N'hésitez pas si vous avez d'autres questions.",
+          "Maa salama ! À très bientôt sur Marjane Mall.",
+          "Bonne journée ! Merci pour votre visite.",
+          "Au revoir et à la prochaine !"
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": [
+          "Merci",
+          "Merci beaucoup",
+          "Je vous remercie",
+          "Thanks",
+          "Super, merci",
+          "Merci pour votre aide",
+          "Je vous suis reconnaissant",
+          "Avec mes remerciements",
+          "C'est gentil, merci",
+          "Merci bien",
+          "Chokran",
+          "Mrc bzaf",
+          "Thank you",
+          "Thanks a lot",
+          "Je te remercie",
+          "Merci infiniment",
+          "Toda",
+          "Shukran",
+          "Merci pour tout",
+          "Je vous dis merci",
+          "Un grand merci"
+        ],
+        "responses": [
+          "Avec plaisir !",
+          "Je suis là pour ça !",
+          "C'est tout naturel !",
+          "De rien ! N'hésitez pas si vous avez d'autres questions.",
+          "Merci à vous ! Bonne journée.",
+          "C'est un plaisir de vous aider !"
+        ]
+      },
+      {
+        "tag": "unknown",
+        "patterns": [
+          "fghjkl",
+          "kxmjsdhv",
+          "q87623bszn",
+          "123456",
+          "asdfghjkl",
+          "????",
+          "...",
+          "Je ne sais pas",
+          "Je comprends pas",
+          "Quoi ?",
+          "Hein ?",
+          "Comment ?",
+          "Pardon ?",
+          "Je ne comprends pas"
+        ],
+        "responses": [
+          "Je n'ai pas compris votre demande. Pouvez-vous reformuler ?",
+          "Désolé, je ne saisis pas ce que vous voulez dire.",
+          "Je ne suis pas sûr de comprendre. Pourriez-vous préciser ?",
+          "Pouvez-vous répéter votre question s'il vous plaît ?",
+          "Je n'ai pas bien compris. Pourriez-vous formuler autrement ?",
+          "Désolé, je n'ai pas saisi. Pouvez-vous donner plus de détails ?"
+        ]
+      },
+      {
+        "tag": "offres_et_produits",
+        "patterns": [
+          "montre moi les offres",
+          "produits disponibles",
+          "quels sont vos produits",
+          "je veux voir les promotions",
+          "qu'est-ce que vous vendez",
+          "offres",
+          "quelles sont vos promotions",
+          "avez-vous des soldes",
+          "quels produits proposez-vous",
+          "catalogue produits",
+          "liste des articles",
+          "quels articles avez-vous",
+          "quels sont les nouveaux produits",
+          "nouveautés",
+          "promotions en cours",
+          "offres spéciales",
+          "y a-t-il des réductions",
+          "quels sont les produits en solde",
+          "je cherche des promotions",
+          "où voir vos offres",
+          "quels sont vos meilleurs produits",
+          "produits populaires"
+        ],
+        "responses": [
+          "Pour explorer l'ensemble de nos produits et obtenir des informations complètes, nous vous invitons à vous connecter sur notre site <a href='https://www.marjanemall.ma' target='_blank'>Marjane Mall</a> ou télécharger l'application sur Play Store ou App Store.",
+          "Découvrez toutes nos offres et promotions sur notre site web <a href='https://www.marjanemall.ma' target='_blank'>Marjane Mall</a> ou via notre application mobile.",
+          "Nous proposons une large gamme de produits. Visitez notre site <a href='https://www.marjanemall.ma' target='_blank'>Marjane Mall</a> pour voir nos catalogues complets.",
+          "Nos promotions sont régulièrement mises à jour sur notre site internet <a href='https://www.marjanemall.ma' target='_blank'>Marjane Mall</a> et application mobile.",
+          "Consultez nos offres du moment directement sur notre plateforme <a href='https://www.marjanemall.ma' target='_blank'>Marjane Mall</a> ."
+        ]
+      },
+      {
+        "tag": "delivery",
+        "patterns": [
+          "quand est-ce que je recevrai ma commande",
+          "délai de livraison",
+          "combien de temps pour la livraison",
+          "quand vais-je être livré",
+          "Proposez-vous la livraison ?",
+          "Comment se faire livrer ?",
+          "Délais de livraison",
+          "Frais de port",
+          "Livraison à domicile",
+          "Est-ce que vous livrez ?",
+          "Options de livraison",
+          "Temps d'expédition",
+          "Zone de livraison",
+          "Puis-je me faire livrer ?",
+          "T9adro tsifto liya l commande ?",
+          "Livraison",
+          "Et pour la livraison",
+          "Delivery",
+          "Combien de temps prend la livraison ?",
+          "Quels sont les délais de livraison ?",
+          "Livrez-vous dans tout le Maroc ?",
+          "Quels sont les frais de livraison ?",
+          "La livraison est-elle gratuite ?",
+          "Comment suivre ma livraison ?",
+          "Puis-je choisir la date de livraison ?",
+          "Qui assure la livraison ?",
+          "Quels sont les transporteurs ?",
+          "Livraison express disponible ?",
+          "Quand sera livré mon colis ?",
+          "Comment connaître l'état de ma livraison ?",
+          "Puis-je changer l'adresse de livraison ?",
+          "Que faire si je ne suis pas là pour la livraison ?"
+        ],
+        "responses": [
+          "Nos délais de livraison varient selon votre localisation. Veuillez entrer le nom de la ville ou le code postal. "
+        ]
+      },
+      {
+        "tag": "payment",
+        "patterns": [
+          "méthodes de paiement",
+          "puis-je payer à la livraison",
+          "paiement en ligne",
+          "modalités de paiement",
+          "Quels modes de paiement acceptez-vous ?",
+          "Puis-je payer par carte ?",
+          "Moyens de paiement",
+          "Acceptez-vous le virement ?",
+          "Paiement en ligne sécurisé",
+          "Options de paiement",
+          "Paiement à la livraison",
+          "Puis-je payer en espèces ?",
+          "Cartes bancaires acceptées",
+          "Paiement en plusieurs fois",
+          "Wach t9balo cartes ?",
+          "Kayn paiement ?",
+          "par rapport au paiement ?",
+          "payment",
+          "paiement",
+          "comment payer",
+          "mode paiement",
+          "Quelles cartes acceptez-vous ?",
+          "Puis-je payer par PayPal ?",
+          "Paiement par chèque possible ?",
+          "Y a-t-il des frais pour le paiement en ligne ?",
+          "Le paiement est-il sécurisé ?",
+          "Comment fonctionne le paiement à la livraison ?",
+          "Puis-je payer en plusieurs fois sans frais ?",
+          "Qu'est-ce que le paiement cash à la livraison ?",
+          "Quels sont les moyens de paiement disponibles ?",
+          "Paiement mobile accepté ?",
+          "Comment garantir la sécurité de mon paiement ?",
+          "Dois-je payer des frais supplémentaires pour le paiement à la livraison ?"
+        ],
+        "responses": [
+          "Paiement sécurisé par carte bancaire ou en cash à la livraison de votre commande.Valable pour un montant maximal de 4000 dhs par commandes"
+        ]
+      },
+      {
+        "tag": "autres_infos",
+        "patterns": [
+          "je veux plus d'informations",
+          "autres informations",
+          "plus de détails",
+          "renseignements supplémentaires",
+          "Plus d'infos",
+          "J'ai besoin d'informations",
+          "Pouvez-vous me donner plus de détails ?",
+          "Je souhaite en savoir plus",
+          "Informations complémentaires",
+          "Des précisions s'il vous plaît",
+          "Développez votre réponse",
+          "Plus de précisions",
+          "Quelles sont les informations disponibles ?",
+          "Avez-vous plus d'informations ?",
+          "Je veux tout savoir",
+          "Dites-moi en plus",
+          "Expliquez-moi en détail",
+          "J'aimerais plus de renseignements"
+        ],
+        "responses": [
+          "Pour plus d'informations, vous pouvez consulter notre site <a href='https://www.marjanemall.ma' target='_blank'>Marjane Mall</a> ou contacter notre service client.",
+          "Toutes les informations détaillées sont disponibles sur notre plateforme <a href='https://www.marjanemall.ma' target='_blank'>Marjane Mall</a>."
+        ]
+      },
+      {
+        "tag": "suivi_commande",
+        "patterns": [
+          "suivre la livraison",
+          "où est ma commande",
+          "track ma commande",
+          "état de ma commande",
+          "Comment suivre mon colis ?",
+          "Où en est ma commande ?",
+          "Statut de ma commande",
+          "Suivi de colis",
+          "Ma commande a-t-elle été expédiée ?",
+          "Quand ma commande sera-t-elle envoyée ?",
+          "Numéro de suivi",
+          "Tracking commande",
+          "Comment connaître l'avancement de ma commande ?",
+          "Ma commande est-elle en route ?",
+          "Où trouver le numéro de suivi ?",
+          "Je ne reçois pas de nouvelles de ma commande",
+          "Commande non reçue",
+          "Ma commande est en retard",
+          "Problème de suivi de commande",
+          "Commande perdue"
+        ],
+        "responses": [
+          "Veuillez saisire votre numéro de commande."
+        ]
+      },
+      {
+        "tag": "annuler_commande",
+        "patterns": [
+          "annuler ma commande",
+          "je veux annuler",
+          "comment annuler une commande",
+          "annulation commande",
+          "Puis-je annuler ma commande ?",
+          "Comment faire pour annuler ?",
+          "Je me suis trompé, je veux annuler",
+          "Annuler un achat",
+          "Délai pour annuler",
+          "Commande annulée",
+          "Rétractation",
+          "Je ne veux plus ma commande",
+          "Annulation possible ?",
+          "Conditions d'annulation",
+          "J'ai changé d'avis",
+          "Refuser la commande",
+          "Annuler avant livraison",
+          "Désistement",
+          "Procédure d'annulation",
+          "Est-il trop tard pour annuler ?"
+        ],
+        "responses": [
+          "Veuillez saisire votre numéro de commande."
+        ]
+      },
+      {
+        "tag": "retour_article",
+        "patterns": [
+          "retourner un produit",
+          "je veux retourner un article",
+          "comment faire un retour",
+          "je veux faire un retour",
+          "Politique de retour",
+          "Conditions de retour",
+          "Délai pour retourner",
+          "Article défectueux",
+          "Produit non conforme",
+          "Je ne suis pas satisfait",
+          "Remboursement retour",
+          "Comment renvoyer un article ?",
+          "Frais de retour",
+          "Retour gratuit ?",
+          "Procédure de retour",
+          "Formulaire de retour",
+          "Où envoyer mon retour ?",
+          "Produit cassé",
+          "Mauvaise taille",
+          "Erreur de produit",
+          "Garantie produit",
+          "Satisfait ou remboursé"
+        ],
+        "responses": [
+          "Veuillez saisire votre numéro de commande."
+        ]
+      },
+      {
+        "tag": "remboursement",
+        "patterns": [
+          "je veux un remboursement",
+          "comment se faire rembourser",
+          "remboursement",
+          "quand vais-je être remboursé",
+          "Délai de remboursement",
+          "Paiement non remboursé",
+          "Comment obtenir mon remboursement ?",
+          "Remboursement retour",
+          "Quand sera crédité mon compte ?",
+          "Remboursement partiel",
+          "Conditions de remboursement",
+          "Remboursement sur carte",
+          "Remboursement en espèces",
+          "Pas reçu mon remboursement",
+          "Problème de remboursement",
+          "Demande de remboursement",
+          "Remboursement garantie",
+          "Remboursement SAV",
+          "Remboursement commande annulée",
+          "Litige remboursement"
+        ],
+        "responses": [
+          "Veuillez saisire votre numéro de commande."
+        ]
+      },
+      {
+        "tag": "autre_chose",
+        "patterns": [
+          "autre chose",
+          "j'ai une autre question",
+          "je veux parler à quelqu'un",
+          "besoin d'aide",
+          "Autre demande",
+          "J'ai encore une question",
+          "Question supplémentaire",
+          "C'est pas ce que je demande",
+          "Pas ma question",
+          "Autre problème",
+          "Autre souci",
+          "Question différente",
+          "Problème non résolu",
+          "Ça ne répond pas à ma question",
+          "Je veux poser une autre question",
+          "Nouvelle demande",
+          "Autre sujet",
+          "Changement de question",
+          "J'ai besoin d'autre chose",
+          "Ce n'est pas ce que je cherche"
+        ],
+        "responses": [
+          "Nous sommes à votre écoute. Vous pouvez également nous contacter directement au 0802007700. Un de nos téléconseillers prendra en charge votre demande dès que possible.",
+          "Pour une assistance plus personnalisée, contactez notre service client au 0802007700."
+        ]
+      },
+
+      {
+        "tag": "contact",
+        "patterns": [
+          "Comment vous contacter ?",
+          "Coordonnées",
+          "Adresse email",
+          "Numéro de téléphone",
+          "Service client",
+          "Adresse physique",
+          "Où vous trouver ?",
+          "Contactez-nous",
+          "Formulaire de contact",
+          "Besoin de parler à quelqu'un",
+          "Support technique",
+          "Assistance téléphonique",
+          "Email support",
+          "Chat en direct",
+          "Réseaux sociaux",
+          "Page Facebook",
+          "Compte Instagram",
+          "Adresse postale",
+          "Siège social",
+          "Points de contact"
+        ],
+        "responses": [
+          "Vous pouvez nous contacter au 0802007700 ou via le formulaire sur notre site web."
+        ]
+      },
+      {
+        "tag": "compte",
+        "patterns": [
+          "Créer un compte",
+          "Inscription",
+          "Problème de connexion",
+          "Mot de passe oublié",
+          "Modifier mes informations",
+          "Mon profil",
+          "Espace client",
+          "Je n'arrive pas à me connecter",
+          "Activer mon compte",
+          "Compte bloqué",
+          "Changer email",
+          "Modifier mot de passe",
+          "Supprimer mon compte",
+          "Identifiant perdu",
+          "Problème compte",
+          "S'inscrire",
+          "Créer un profil",
+          "Confirmation inscription",
+          "Données personnelles",
+          "Sécurité compte"
+        ],
+        "responses": [
+          "Pour créer un compte, rendez-vous sur notre site et cliquez sur 'Inscription', En cas de problème de connexion, utilisez la fonction 'Mot de passe oublié' ou contactez notre support. Vous pouvez modifier vos informations personnelles dans votre espace client une fois connecté. Pour toute question relative à votre compte, notre service client peut vous aider au 0802007700."
+        ]
+      },
+      {
+        "tag": "qualite",
+        "patterns": [
+          "Qualité des produits",
+          "Origine des produits",
+          "Made in Morocco",
+          "Normes qualité",
+          "Contrôle qualité",
+          "Produits défectueux",
+          "Garantie",
+          "SAV",
+          "Service après-vente",
+          "Réclamation qualité",
+          "Produit conforme",
+          "Labels",
+          "Certifications",
+          "Matériaux",
+          "Fabriqué où ?",
+          "Conditions de fabrication",
+          "Éthique",
+          "Durabilité",
+          "Environnement",
+          "Développement durable"
+        ],
+        "responses": [
+          "Tous nos produits répondent à des normes qualité strictes et sont soumis à des contrôles rigoureux.",
+          "Nous privilégions les produits locaux et travaillons avec des fournisseurs responsables.",
+          "En cas de problème avec un produit, notre service après-vente est à votre disposition.",
+          "Nos engagements qualité et éthique sont détaillés dans notre charte disponible en ligne.",
+          "Certains produits bénéficient de garanties prolongées. Consultez les notices pour plus d'informations."
+        ]
+      }
+    ]
+}

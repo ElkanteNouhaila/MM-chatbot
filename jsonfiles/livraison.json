@@ -1,0 +1,9092 @@
+[
+  {
+    "code_postal": 90000,
+    "lib_commune": "AMANA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 20220,
+    "lib_commune": "CASA-OULFA",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 20490,
+    "lib_commune": "MECHOUAR DE CASABLANCA",
+    "SLA": 2,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 20190,
+    "lib_commune": "CASA-LISSASFA",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 27220,
+    "lib_commune": "CASA-ARRAHMA",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 20230,
+    "lib_commune": "CASA-HAY HASSANI",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 27182,
+    "lib_commune": "BOUSKOURA",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 20026,
+    "lib_commune": "CASA-CIEL / GHANDI / BEAUSEJOUR",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 20040,
+    "lib_commune": "CASA- BOURGOGNE / EL HANK",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 20999,
+    "lib_commune": "CASABLANCA",
+    "SLA": 2,
+    "Transporteur": "EDELIVERY"
+  },
+  {
+    "code_postal": 20171,
+    "lib_commune": "CASA-AIN DIAB 2",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 20280,
+    "lib_commune": "CASA-SIDI MAAROUF",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 20460,
+    "lib_commune": "CASA-AIN CHOK",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 20330,
+    "lib_commune": "CASA - MARRIF / ANFA",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 20350,
+    "lib_commune": "CASA- AL FIDA / DERB SULTAN",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 20310,
+    "lib_commune": "CASA- ROCHES NOIRES / EMILE ZOLA",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 20520,
+    "lib_commune": "CASABLANCA",
+    "SLA": 3,
+    "Transporteur": "EDELIVERY"
+  },
+  {
+    "code_postal": 20502,
+    "lib_commune": "CASA - QUARTIER DES HOPITAUX / 2 MARS",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 20340,
+    "lib_commune": "CASA - DERB GHALEF / L'OASIS",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 20660,
+    "lib_commune": "CASA- HAY MOULAY RACHID",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 20570,
+    "lib_commune": "CASA-HAY MOHAMMADI / AIN BOURJA",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 27223,
+    "lib_commune": "DAR BOUAZZA",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 10999,
+    "lib_commune": "RABAT",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 20640,
+    "lib_commune": "CASA-SIDI MOUMEN",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 28630,
+    "lib_commune": "AIN HARROUDA ",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 20440,
+    "lib_commune": "CASA-SEBATA",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 28999,
+    "lib_commune": "MOHAMMEDIA ",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 20600,
+    "lib_commune": "CASA-SIDI BERNOUSSI",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 13100,
+    "lib_commune": "BOUZNIKA",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 12999,
+    "lib_commune": "TEMARA",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 13000,
+    "lib_commune": "BENSLIMANE",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 12123,
+    "lib_commune": "EL MENZEH",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 12013,
+    "lib_commune": "AIN ATTIG",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 23999,
+    "lib_commune": "BENI MELLAL",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 13072,
+    "lib_commune": "EL MANSOURIA",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 25999,
+    "lib_commune": "KHOURIBGA",
+    "SLA": 3,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 27000,
+    "lib_commune": "NOUACEUR",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 24999,
+    "lib_commune": "ELJADIDA",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 26402,
+    "lib_commune": "HAD SOUALEM",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 26199,
+    "lib_commune": "BERRECHID",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 40999,
+    "lib_commune": "MARRAKECH",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 26999,
+    "lib_commune": "SETTAT",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 86199,
+    "lib_commune": "INEZGANE",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 12014,
+    "lib_commune": "HARHOURA",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 80999,
+    "lib_commune": "AGADIR",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 86150,
+    "lib_commune": "AIT MELLOUL",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 29490,
+    "lib_commune": "MEDIOUNA",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 26202,
+    "lib_commune": "DEROUA",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 29640,
+    "lib_commune": "TIT MELLIL",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 13162,
+    "lib_commune": "SIDI BETTACHE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 12122,
+    "lib_commune": "OUMAZZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92000,
+    "lib_commune": "LARACHE",
+    "SLA": 5,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 90102,
+    "lib_commune": "GUEZNAIA",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 90999,
+    "lib_commune": "TANGER",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 13202,
+    "lib_commune": "MELLILA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 11999,
+    "lib_commune": "SALE",
+    "SLA": 2,
+    "Transporteur": "chronodiali"
+  },
+  {
+    "code_postal": 14053,
+    "lib_commune": "MNASRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14152,
+    "lib_commune": "LALLA MIMOUNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 13026,
+    "lib_commune": "ZIAIDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14022,
+    "lib_commune": "BEN MANSOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 13322,
+    "lib_commune": "AHLAF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14200,
+    "lib_commune": "SIDI SLIMANE",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14122,
+    "lib_commune": "SIDI BOUBKER EL HAJ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15004,
+    "lib_commune": "SFASSIF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15032,
+    "lib_commune": "MAJMAA TOLBA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14223,
+    "lib_commune": "SFAFAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14999,
+    "lib_commune": "KENITRA",
+    "SLA": 2,
+    "Transporteur": "chronodiali"
+  },
+  {
+    "code_postal": 14102,
+    "lib_commune": "ARBAOUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14325,
+    "lib_commune": "CHOUAFAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14304,
+    "lib_commune": "SOUK LARBAA GHARB",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15202,
+    "lib_commune": "SIDI ABDERRAZAK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15150,
+    "lib_commune": "ROMMANI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15152,
+    "lib_commune": "AIN SBIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15124,
+    "lib_commune": "AIT ICHOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15053,
+    "lib_commune": "MAAZIZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15252,
+    "lib_commune": "SIDI ALLAL EL BAHRAOUI",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15174,
+    "lib_commune": "MARCHOUCH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15425,
+    "lib_commune": "AIT BELKACEM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16010,
+    "lib_commune": "DAR GUEDDARI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15352,
+    "lib_commune": "TIDDAS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15999,
+    "lib_commune": "KHEMISSET",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15499,
+    "lib_commune": "TIFLET",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16026,
+    "lib_commune": "DAR LAASLOUJI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16004,
+    "lib_commune": "SIDI BOUSBER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16050,
+    "lib_commune": "HAD KOURT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16174,
+    "lib_commune": "SEFSAF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16032,
+    "lib_commune": "SIDI AHMED CHERIF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16033,
+    "lib_commune": "CHBANATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16022,
+    "lib_commune": "BIR TALEB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16150,
+    "lib_commune": "MECHRAA BEL KSIRI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16024,
+    "lib_commune": "ZIRARA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 20160,
+    "lib_commune": "EL YOUSSOUFIA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16299,
+    "lib_commune": "OUEZZANE",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16202,
+    "lib_commune": "SIDI REDOUANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16173,
+    "lib_commune": "NOUIRATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16175,
+    "lib_commune": "SIDI AL KAMEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22000,
+    "lib_commune": "AZILAL",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16225,
+    "lib_commune": "OUNNANA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22274,
+    "lib_commune": "RFALA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22323,
+    "lib_commune": "AIT TAMLIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16999,
+    "lib_commune": "SIDI KACEM",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22152,
+    "lib_commune": "AIT MHAMED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22122,
+    "lib_commune": "TAOUNZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22324,
+    "lib_commune": "ANZOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22322,
+    "lib_commune": "AIT BLAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22572,
+    "lib_commune": "AIT TAGUELLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22602,
+    "lib_commune": "TILOUGGUITE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22325,
+    "lib_commune": "TIDILI FETOUAKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22373,
+    "lib_commune": "TABIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22300,
+    "lib_commune": "DEMNATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22372,
+    "lib_commune": "BNI HASSANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22353,
+    "lib_commune": "FOUM JEMAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23150,
+    "lib_commune": "EL KSIBA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23006,
+    "lib_commune": "FOUM OUDI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23073,
+    "lib_commune": "TIZI NISLY",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23005,
+    "lib_commune": "BNI OUKIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22622,
+    "lib_commune": "ANERGUI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23200,
+    "lib_commune": "FKIH BEN SALAH",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23102,
+    "lib_commune": "DAR OULD ZIDOUH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23375,
+    "lib_commune": "SEMGUET",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23574,
+    "lib_commune": "SIDI AISSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23372,
+    "lib_commune": "GUETTAYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23550,
+    "lib_commune": "SEBT OULAD NEMMA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23400,
+    "lib_commune": "OULAD AYAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24003,
+    "lib_commune": "MOULAY ABDELLAH",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23573,
+    "lib_commune": "OULAD BOURAHMOUNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24032,
+    "lib_commune": "SIDI ABED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24350,
+    "lib_commune": "SIDI BENNOUR",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24022,
+    "lib_commune": "OULAD AISSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24026,
+    "lib_commune": "KRIDID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23652,
+    "lib_commune": "TAGHZIRT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24323,
+    "lib_commune": "OULAD HAMDANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23700,
+    "lib_commune": "ZAOUIAT CHEIKH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25100,
+    "lib_commune": "BOUJNIBA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25072,
+    "lib_commune": "BOUKHRISSE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24402,
+    "lib_commune": "SIDI SMAIL",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24324,
+    "lib_commune": "OULAD SIDI ALI BEN YOUSSEF",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24372,
+    "lib_commune": "MTAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25300,
+    "lib_commune": "HATTANE",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24422,
+    "lib_commune": "SEBT SAISS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25373,
+    "lib_commune": "BIR MEZOUI",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25382,
+    "lib_commune": "OULAD FENNANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25073,
+    "lib_commune": "OULAD GOUAOUCH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25323,
+    "lib_commune": "OULAD AZZOUZ",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25322,
+    "lib_commune": "MFASSIS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25422,
+    "lib_commune": "AIT AMMAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25376,
+    "lib_commune": "KASBAT TROCH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26073,
+    "lib_commune": "OULAD MHAMED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26074,
+    "lib_commune": "SIDI DAHBI",
+    "SLA": 2,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25423,
+    "lib_commune": "OULAD FTATA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26072,
+    "lib_commune": "MGARTO",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25374,
+    "lib_commune": "BNI SMIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26050,
+    "lib_commune": "BEN AHMED",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26026,
+    "lib_commune": "SIDI EL AIDI",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26352,
+    "lib_commune": "GUISSER",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26174,
+    "lib_commune": "SIDI AHMED EL KHADIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26250,
+    "lib_commune": "EL BOROUJ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26172,
+    "lib_commune": "DAR CHAFFAI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26122,
+    "lib_commune": "RIAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26372,
+    "lib_commune": "RIMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26300,
+    "lib_commune": "EL GARA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31004,
+    "lib_commune": "TAZOUTA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 30205,
+    "lib_commune": "SIDI HARAZEM",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26502,
+    "lib_commune": "OULAD SAID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26722,
+    "lib_commune": "NKHILA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26600,
+    "lib_commune": "SIDI HAJJAJ",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31026,
+    "lib_commune": "DAR EL HAMRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 28814,
+    "lib_commune": "SIDI MOUSSA BEN ALI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31100,
+    "lib_commune": "BHALIL",
+    "SLA": 2,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31350,
+    "lib_commune": "RIBATE EL KHEIR",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31032,
+    "lib_commune": "TAFAJIGHT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31052,
+    "lib_commune": "AIN CHEGGAG",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31002,
+    "lib_commune": "AZZABA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31250,
+    "lib_commune": "IMOUZZER KANDAR",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31302,
+    "lib_commune": "RAS TABOUDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32024,
+    "lib_commune": "IZEMMOUREN",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32022,
+    "lib_commune": "AIT KAMRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32004,
+    "lib_commune": "ARBAA TAOURIRT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32023,
+    "lib_commune": "CHAKRANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31999,
+    "lib_commune": "SEFROU",
+    "SLA": 2,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32050,
+    "lib_commune": "BNI BOUAYACH",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32006,
+    "lib_commune": "ROUADI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32202,
+    "lib_commune": "IMRABTEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32323,
+    "lib_commune": "KETAMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32250,
+    "lib_commune": "IMZOUREN",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32102,
+    "lib_commune": "BNI BOUFRAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32072,
+    "lib_commune": "NEKKOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32325,
+    "lib_commune": "TAGHZOUT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32302,
+    "lib_commune": "ISSAGUEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32999,
+    "lib_commune": "AL HOCEIMA",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33000,
+    "lib_commune": "BOULEMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32350,
+    "lib_commune": "TARGUIST",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32375,
+    "lib_commune": "SIDI BOUZINEB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32374,
+    "lib_commune": "BNI BCHIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33173,
+    "lib_commune": "AIT EL MANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32373,
+    "lib_commune": "BNI BOUNSAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33250,
+    "lib_commune": "MISSOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33322,
+    "lib_commune": "FRITISSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33174,
+    "lib_commune": "ALMIS MARMOUCHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33172,
+    "lib_commune": "AIT BAZZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33002,
+    "lib_commune": "ENJIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33272,
+    "lib_commune": "OULAD SGHIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33176,
+    "lib_commune": "TALZEMT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34006,
+    "lib_commune": "BOUHOUDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34002,
+    "lib_commune": "KHLALFA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33300,
+    "lib_commune": "OUTAT EL HAJ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33324,
+    "lib_commune": "EL ORJANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33323,
+    "lib_commune": "TISSAF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34014,
+    "lib_commune": "TABOUDA",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34000,
+    "lib_commune": "TAOUNATE",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34026,
+    "lib_commune": "RGHIOUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34072,
+    "lib_commune": "BOUCHABEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34024,
+    "lib_commune": "GALAZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34025,
+    "lib_commune": "MEZRAOUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34004,
+    "lib_commune": "BNI OULID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34042,
+    "lib_commune": "TIMEZGANA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34043,
+    "lib_commune": "ZRIZER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34124,
+    "lib_commune": "OULAD SALAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34083,
+    "lib_commune": "MOULAY ABDELKRIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34074,
+    "lib_commune": "LOULJA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34100,
+    "lib_commune": "GHAFSAI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34073,
+    "lib_commune": "JBABRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34173,
+    "lib_commune": "TAMEDIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34076,
+    "lib_commune": "GHOUAZI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34252,
+    "lib_commune": "AIN AICHA",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35004,
+    "lib_commune": "BAB MARZOUKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34272,
+    "lib_commune": "AIN MAATOUF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34224,
+    "lib_commune": "MESSASSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34200,
+    "lib_commune": "TISSA",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35006,
+    "lib_commune": "MEKNASSA ACHARQIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34273,
+    "lib_commune": "OULAD DAOUD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35100,
+    "lib_commune": "GUERCIF",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35105,
+    "lib_commune": "SAKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35046,
+    "lib_commune": "OULAD CHRIF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35072,
+    "lib_commune": "JBARNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35055,
+    "lib_commune": "OULAD BOURIMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35224,
+    "lib_commune": "OULAD AYYAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35052,
+    "lib_commune": "AJDIR",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35300,
+    "lib_commune": "TAHLA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35999,
+    "lib_commune": "TAZA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35273,
+    "lib_commune": "BOUCHFAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35203,
+    "lib_commune": "MATMATA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35124,
+    "lib_commune": "ASSEBBAB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35325,
+    "lib_commune": "SMIAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35274,
+    "lib_commune": "BOUHLOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 36222,
+    "lib_commune": "AIN KANSARA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 36125,
+    "lib_commune": "MIKKES",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35402,
+    "lib_commune": "ZERARDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 36122,
+    "lib_commune": "AIN CHKEF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 36104,
+    "lib_commune": "SEBAA ROUADI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40064,
+    "lib_commune": "OULAD DLIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 36124,
+    "lib_commune": "LAAJAJRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41000,
+    "lib_commune": "CHICHAOUA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41082,
+    "lib_commune": "OUAD LBOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40065,
+    "lib_commune": "TASSOULTANTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40300,
+    "lib_commune": "TAMANSOURT",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 36172,
+    "lib_commune": "SIDI DAOUD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41025,
+    "lib_commune": "AHDIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41050,
+    "lib_commune": "IMINTANOUTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42072,
+    "lib_commune": "ABADOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41226,
+    "lib_commune": "ZAOUIAT ANNAHLIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41084,
+    "lib_commune": "AFALLA ISSEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42050,
+    "lib_commune": "AIT OURIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41083,
+    "lib_commune": "ICHAMRAREN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42073,
+    "lib_commune": "AIT AADEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41102,
+    "lib_commune": "AIT HADI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42085,
+    "lib_commune": "TIDILI MESFIOUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42103,
+    "lib_commune": "AMIZMIZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42086,
+    "lib_commune": "TOUAMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42082,
+    "lib_commune": "AIT FASKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42076,
+    "lib_commune": "TADDART",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42122,
+    "lib_commune": "AZGOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42102,
+    "lib_commune": "TIZGUINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42174,
+    "lib_commune": "MOULAY BRAHIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42252,
+    "lib_commune": "GHMATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42123,
+    "lib_commune": "ASSIF EL MAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42173,
+    "lib_commune": "OUIRGANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42172,
+    "lib_commune": "IMGDAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43023,
+    "lib_commune": "MAYATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42152,
+    "lib_commune": "ASNI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43052,
+    "lib_commune": "EL AAMRIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43083,
+    "lib_commune": "OULAD MSABBEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43024,
+    "lib_commune": "OULAD YACOUB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43000,
+    "lib_commune": "EL KELAA DES SRAGHNA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42272,
+    "lib_commune": "TAMAZOUZTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43073,
+    "lib_commune": "CHTAIBA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43026,
+    "lib_commune": "OULAD ZARRAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43176,
+    "lib_commune": "OULAD HASSOUNE HAMRI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43150,
+    "lib_commune": "BENGUERIR",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43082,
+    "lib_commune": "SIDI EL HATTAB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43122,
+    "lib_commune": "BOUYA OMAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43100,
+    "lib_commune": "LAATTAOUIA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43223,
+    "lib_commune": "JAIDATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43123,
+    "lib_commune": "DZOUZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43273,
+    "lib_commune": "OUARGUI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43324,
+    "lib_commune": "LAMHARRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43252,
+    "lib_commune": "SAHRIJ",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43272,
+    "lib_commune": "LOUAD LAKHDAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43175,
+    "lib_commune": "AIT HAMMOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43303,
+    "lib_commune": "SIDI BOU OTHMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43322,
+    "lib_commune": "SIDI BOUBKER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44053,
+    "lib_commune": "SMIMOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43450,
+    "lib_commune": "TAMALLALT",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43372,
+    "lib_commune": "ZEMRANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43473,
+    "lib_commune": "JBIEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43350,
+    "lib_commune": "SIDI RAHHAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44060,
+    "lib_commune": "AIT DAOUD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43423,
+    "lib_commune": "SIDI ABDALLAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44083,
+    "lib_commune": "ASSAIS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44133,
+    "lib_commune": "OUNAGHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44124,
+    "lib_commune": "MEJJI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44075,
+    "lib_commune": "TIDZI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44074,
+    "lib_commune": "TAFEDNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44134,
+    "lib_commune": "SIDI ISHAQ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44125,
+    "lib_commune": "SIDI KAOUKI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44276,
+    "lib_commune": "MOUARID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44999,
+    "lib_commune": "ESSAOUIRA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44150,
+    "lib_commune": "TALMEST",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44252,
+    "lib_commune": "BIZDAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44226,
+    "lib_commune": "IDA OU KAZZOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45174,
+    "lib_commune": "AIT SEDRATE JBEL EL OULIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44223,
+    "lib_commune": "IDA OU GUELLOUL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45302,
+    "lib_commune": "IKNIOUEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45672,
+    "lib_commune": "AIT EL FARSI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45223,
+    "lib_commune": "AIT SEDRATE SAHL CHARKIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45173,
+    "lib_commune": "AIT YOUL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45102,
+    "lib_commune": "AMERZGANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45452,
+    "lib_commune": "MSEMRIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45253,
+    "lib_commune": "IGHREM NOUGDAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45999,
+    "lib_commune": "OUARZAZATE",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45822,
+    "lib_commune": "IMIDER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45522,
+    "lib_commune": "IDELSANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45775,
+    "lib_commune": "KHOUZAMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45750,
+    "lib_commune": "TAZNAKHT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46026,
+    "lib_commune": "DAR SI AISSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45800,
+    "lib_commune": "TINGHIR",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46073,
+    "lib_commune": "JDOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46122,
+    "lib_commune": "LABKHATI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46053,
+    "lib_commune": "ECHEMMAIA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46072,
+    "lib_commune": "ATIAMIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45852,
+    "lib_commune": "TOUNDOUTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46076,
+    "lib_commune": "SIDI CHIKER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46100,
+    "lib_commune": "JAMAAT SHAIM",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47050,
+    "lib_commune": "AGDZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46322,
+    "lib_commune": "ESBIAAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46150,
+    "lib_commune": "SEBT GZOULA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46999,
+    "lib_commune": "SAFI",
+    "SLA": 2,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46125,
+    "lib_commune": "LAMSABIH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47073,
+    "lib_commune": "TAMEZMOUTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46172,
+    "lib_commune": "ATOUABET",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47622,
+    "lib_commune": "FEZOUATA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47724,
+    "lib_commune": "TAFTECHNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47702,
+    "lib_commune": "NKOB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47552,
+    "lib_commune": "TAGOUNITE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47076,
+    "lib_commune": "AFRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47900,
+    "lib_commune": "ZAGORA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47723,
+    "lib_commune": "AIT OUALLAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50045,
+    "lib_commune": "OUISLANE",
+    "SLA": 2,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50052,
+    "lib_commune": "AIN JEMAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47922,
+    "lib_commune": "BNI ZOLI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47926,
+    "lib_commune": "BLEIDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47925,
+    "lib_commune": "BOUZEROUAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51000,
+    "lib_commune": "EL HAJEB",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47924,
+    "lib_commune": "TINZOULINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51100,
+    "lib_commune": "AIN TAOUJDATE",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52122,
+    "lib_commune": "AIT HANI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51025,
+    "lib_commune": "AIT YAAZEM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50999,
+    "lib_commune": "MEKNES",
+    "SLA": 2,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50110,
+    "lib_commune": "TOULAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51124,
+    "lib_commune": "LAQSIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51050,
+    "lib_commune": "AGOURAI",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52402,
+    "lib_commune": "GUERS TIALLALINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52302,
+    "lib_commune": "GOURRAMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52102,
+    "lib_commune": "ASSOUL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52200,
+    "lib_commune": "ARFOUD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52150,
+    "lib_commune": "BOUDNIB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52403,
+    "lib_commune": "IMILCHIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52250,
+    "lib_commune": "GOULMIMA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52433,
+    "lib_commune": "BOU AZMOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52473,
+    "lib_commune": "HSSYIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52422,
+    "lib_commune": "AMOUGUER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52432,
+    "lib_commune": "OUTERBAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52400,
+    "lib_commune": "ERRICH",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52450,
+    "lib_commune": "RISSANI",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52452,
+    "lib_commune": "ALNIF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 53100,
+    "lib_commune": "AZROU",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 53023,
+    "lib_commune": "DAYAT AOUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52600,
+    "lib_commune": "TINEJDAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 53052,
+    "lib_commune": "AIN LEUH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52474,
+    "lib_commune": "MSSICI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 53104,
+    "lib_commune": "TIMAHDITE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52999,
+    "lib_commune": "ERRACHIDIA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54202,
+    "lib_commune": "SIDI YAHYA OU SAAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54350,
+    "lib_commune": "MIDELT",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54252,
+    "lib_commune": "ITZER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54102,
+    "lib_commune": "OUAOUMANA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 53123,
+    "lib_commune": "BEN SMIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54373,
+    "lib_commune": "MIBLADEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54302,
+    "lib_commune": "KERROUCHEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54502,
+    "lib_commune": "TOUNFITE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54522,
+    "lib_commune": "AGOUDIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54375,
+    "lib_commune": "ZAIDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54473,
+    "lib_commune": "OUM RABIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54452,
+    "lib_commune": "EL HAMMAM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 60350,
+    "lib_commune": "BNI DRAR",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54450,
+    "lib_commune": "MRIRT",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61052,
+    "lib_commune": "AIN CHOUATER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62023,
+    "lib_commune": "BOUARG",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 60999,
+    "lib_commune": "OUJDA",
+    "SLA": 2,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 60070,
+    "lib_commune": "NAIMA",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54524,
+    "lib_commune": "ANEMZI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61152,
+    "lib_commune": "BOUANANE",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61000,
+    "lib_commune": "FIGUIG",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62452,
+    "lib_commune": "MHAJER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62172,
+    "lib_commune": "OULAD AMGHAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61302,
+    "lib_commune": "TENDRARA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62123,
+    "lib_commune": "TALILIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62050,
+    "lib_commune": "BNI ANSAR",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62502,
+    "lib_commune": "MIDAR",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62152,
+    "lib_commune": "BOUDINAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62650,
+    "lib_commune": "ZEGHANGHANE",
+    "SLA": 2,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62822,
+    "lib_commune": "AFSOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62550,
+    "lib_commune": "AL AAROUI",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62602,
+    "lib_commune": "RAS EL MA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62272,
+    "lib_commune": "OULAD BOUBKER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62702,
+    "lib_commune": "SELOUANE",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62802,
+    "lib_commune": "TIZTOUTINE",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63200,
+    "lib_commune": "AIN ERREGGADA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62999,
+    "lib_commune": "NADOR",
+    "SLA": 2,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62900,
+    "lib_commune": "ZAIO",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63050,
+    "lib_commune": "AHFIR",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62872,
+    "lib_commune": "BNI SIDEL LOUTA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63250,
+    "lib_commune": "AKLIM",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62902,
+    "lib_commune": "HASSI BERKANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63600,
+    "lib_commune": "SAIDIA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64850,
+    "lib_commune": "TOUISSIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63672,
+    "lib_commune": "RISLANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63323,
+    "lib_commune": "ZEGZEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63303,
+    "lib_commune": "MADAGH",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64872,
+    "lib_commune": "TIOULI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64100,
+    "lib_commune": "AIN BNI MATHAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 70050,
+    "lib_commune": "TARFAYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 70072,
+    "lib_commune": "DAOURA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65400,
+    "lib_commune": "DEBDOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65823,
+    "lib_commune": "MELG EL OUIDANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65822,
+    "lib_commune": "SIDI LAHCEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 72000,
+    "lib_commune": "SMARA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65800,
+    "lib_commune": "TAOURIRT",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80022,
+    "lib_commune": "TAGHAZOUTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80325,
+    "lib_commune": "AZIAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 73000,
+    "lib_commune": "DAKHLA",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 71000,
+    "lib_commune": "BOUJDOUR",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 70073,
+    "lib_commune": "AKHFENNIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80302,
+    "lib_commune": "AMSKROUD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 74002,
+    "lib_commune": "AOUSSERD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81010,
+    "lib_commune": "ASSA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81000,
+    "lib_commune": "GUELMIM",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80324,
+    "lib_commune": "TIQQI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80502,
+    "lib_commune": "TAMRI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80326,
+    "lib_commune": "TADRART",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81032,
+    "lib_commune": "TARGA WASSAY",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80750,
+    "lib_commune": "AOURIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81036,
+    "lib_commune": "AL MAHBASS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 82000,
+    "lib_commune": "TAN TAN",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81033,
+    "lib_commune": "IMI NFAST",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81035,
+    "lib_commune": "LABOUIRAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81006,
+    "lib_commune": "ZAG",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81052,
+    "lib_commune": "TAGANTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81053,
+    "lib_commune": "TIMOULAY",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83052,
+    "lib_commune": "AOULOUZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83034,
+    "lib_commune": "IDA OU MOUMEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 82022,
+    "lib_commune": "ABTEH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83042,
+    "lib_commune": "ZAOUIAT SIDI TAHAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 82010,
+    "lib_commune": "EL OUATIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83072,
+    "lib_commune": "EL FAID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83000,
+    "lib_commune": "TAROUDANT",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83172,
+    "lib_commune": "AHL TIFNOUTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83175,
+    "lib_commune": "TOUBKAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83173,
+    "lib_commune": "IGUIDI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83102,
+    "lib_commune": "ARGANA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83074,
+    "lib_commune": "TISRASSE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83200,
+    "lib_commune": "AIT IAAZA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83174,
+    "lib_commune": "TAOUYALTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83300,
+    "lib_commune": "OULAD BERHIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83333,
+    "lib_commune": "TOUGHMART",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83202,
+    "lib_commune": "FREIJA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83284,
+    "lib_commune": "TINDINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83252,
+    "lib_commune": "AIT ABDALLAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83382,
+    "lib_commune": "SIDI AHMED OU AMAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83225,
+    "lib_commune": "AZRAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83400,
+    "lib_commune": "SEBT EL GUERDANE",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83452,
+    "lib_commune": "TAFINGOULT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83383,
+    "lib_commune": "SIDI BOUMOUSSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83374,
+    "lib_commune": "ISSEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83334,
+    "lib_commune": "SIDI OUAAZIZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83423,
+    "lib_commune": "LAKHNAFIF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83384,
+    "lib_commune": "SIDI MOUSSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84000,
+    "lib_commune": "TATA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83525,
+    "lib_commune": "SIDI HSAINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83425,
+    "lib_commune": "TIDSI NISSENDALENE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83500,
+    "lib_commune": "TALIOUINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83472,
+    "lib_commune": "OUNEINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84022,
+    "lib_commune": "AKKA IGHANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83523,
+    "lib_commune": "ASSAKI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84050,
+    "lib_commune": "AKKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84076,
+    "lib_commune": "AGUINANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84024,
+    "lib_commune": "OUM EL GUERDANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84026,
+    "lib_commune": "IBN YACOUB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83532,
+    "lib_commune": "AGADIR MELLOUL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84072,
+    "lib_commune": "AIT OUABELLI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84075,
+    "lib_commune": "TIZAGHTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85004,
+    "lib_commune": "TNINE AGLOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85000,
+    "lib_commune": "TIZNIT",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84150,
+    "lib_commune": "FOUM ZGUID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85002,
+    "lib_commune": "ARBAA SAHEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84100,
+    "lib_commune": "FAM EL HISN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85052,
+    "lib_commune": "AIT ERKHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84172,
+    "lib_commune": "ALLOUGOUM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85203,
+    "lib_commune": "SBOUYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85274,
+    "lib_commune": "IBDAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85272,
+    "lib_commune": "ANFEG",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85133,
+    "lib_commune": "AIT ISSAFEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85124,
+    "lib_commune": "TAFRAOUT EL MOULOUD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85275,
+    "lib_commune": "BOUTROUCH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85273,
+    "lib_commune": "SEBT ENNABOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85602,
+    "lib_commune": "TNINE AMELLOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85622,
+    "lib_commune": "TANGARFA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85302,
+    "lib_commune": "MESTI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85550,
+    "lib_commune": "TLETA EL AKHSASS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85450,
+    "lib_commune": "TAFRAOUT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87132,
+    "lib_commune": "AIT OUADRIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85422,
+    "lib_commune": "SIDI BOUABDELLI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87252,
+    "lib_commune": "HAD AIT BELFAA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87552,
+    "lib_commune": "TANALT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87200,
+    "lib_commune": "BIOUGRA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87100,
+    "lib_commune": "AIT BAHA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 86602,
+    "lib_commune": "TEMSIA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87272,
+    "lib_commune": "INCHADEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87222,
+    "lib_commune": "IMI MQOURN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83276,
+    "lib_commune": "ADAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61005,
+    "lib_commune": "ABBOU LAKHAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87452,
+    "lib_commune": "MASSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52223,
+    "lib_commune": "AARAB SEBBAH ZIZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52204,
+    "lib_commune": "AARAB SEBBAH GHERIS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41232,
+    "lib_commune": "ADASSIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81024,
+    "lib_commune": "ABAYNOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31003,
+    "lib_commune": "ADREJ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22052,
+    "lib_commune": "AFOURAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85122,
+    "lib_commune": "ADAY",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84023,
+    "lib_commune": "ADIS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44236,
+    "lib_commune": "ADAGHAS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47053,
+    "lib_commune": "AFELLA NDRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81046,
+    "lib_commune": "AFERKAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42304,
+    "lib_commune": "AGHOUATIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52622,
+    "lib_commune": "AGHBALOU NKERDOUS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63072,
+    "lib_commune": "AGHBAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42153,
+    "lib_commune": "AGHBAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40254,
+    "lib_commune": "AGAFAY",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 74003,
+    "lib_commune": "AGHOUINITE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23052,
+    "lib_commune": "AGHBALA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54052,
+    "lib_commune": "AGUELMOUS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65806,
+    "lib_commune": "AHL OUAD ZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44205,
+    "lib_commune": "AGUERD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22013,
+    "lib_commune": "AGOUDI NLKHAIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44204,
+    "lib_commune": "AGLIF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83375,
+    "lib_commune": "AHL RAMEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 60085,
+    "lib_commune": "AHL ANGAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61103,
+    "lib_commune": "AIN CHAIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16052,
+    "lib_commune": "AIN DFALI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31025,
+    "lib_commune": "AHL SIDI LAHCEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 36156,
+    "lib_commune": "AIN BOU ALI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26674,
+    "lib_commune": "AIN BLAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34222,
+    "lib_commune": "AIN LEGDAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 30045,
+    "lib_commune": "AIN BIDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 60005,
+    "lib_commune": "AIN SFA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62252,
+    "lib_commune": "AIN ZOHRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65256,
+    "lib_commune": "AIN LEHJER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93054,
+    "lib_commune": "AIN LAHSAN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26053,
+    "lib_commune": "AIN DORBANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41053,
+    "lib_commune": "AIN TAZITOUNTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50022,
+    "lib_commune": "AIN ORMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51103,
+    "lib_commune": "AIT BOUBIDMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54363,
+    "lib_commune": "AIT AYACH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 13016,
+    "lib_commune": "AIN TIZGHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44206,
+    "lib_commune": "AIT AISSI IHAHANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22006,
+    "lib_commune": "AIT ABBAS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47054,
+    "lib_commune": "AIT BOUDAOUD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33025,
+    "lib_commune": "AIT ALI OU LAHCEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15412,
+    "lib_commune": "AIT BOUYAHYA EL HAJJAM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15052,
+    "lib_commune": "AIT IKKOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81072,
+    "lib_commune": "AIT BOUFOULEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51005,
+    "lib_commune": "AIT BOURZOUINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22012,
+    "lib_commune": "AIT BOU OULLI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51104,
+    "lib_commune": "AIT HARZ ALLAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42053,
+    "lib_commune": "AIT HKIM AIT IZID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15406,
+    "lib_commune": "AIT MALEK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22303,
+    "lib_commune": "AIT MAJDEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54103,
+    "lib_commune": "AIT ISHAQ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83012,
+    "lib_commune": "AIT MAKHLOUF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40272,
+    "lib_commune": "AIT IMOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22403,
+    "lib_commune": "AIT MAZIGH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52424,
+    "lib_commune": "AIT IZDEG",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51006,
+    "lib_commune": "AIT NAAMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45153,
+    "lib_commune": "AIT OUASSIF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22072,
+    "lib_commune": "AIT OUAARDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15023,
+    "lib_commune": "AIT MIMOUNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87273,
+    "lib_commune": "AIT MILK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51054,
+    "lib_commune": "AIT OUIKHALFEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85484,
+    "lib_commune": "AIT OUAFQA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33352,
+    "lib_commune": "AIT SAGHROUCHEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44012,
+    "lib_commune": "AIT SAID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23154,
+    "lib_commune": "AIT OUM EL BEKHT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54153,
+    "lib_commune": "AIT SAADELLI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15024,
+    "lib_commune": "AIT OURIBEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14306,
+    "lib_commune": "AIT SIBERNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22523,
+    "lib_commune": "AIT OUQABLI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52406,
+    "lib_commune": "AIT YAHYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 94022,
+    "lib_commune": "AL BAHRAOYINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43412,
+    "lib_commune": "AIT TALEB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45155,
+    "lib_commune": "AIT SEDRATE SAHL EL GHARBIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31272,
+    "lib_commune": "AIT SEBAA LAJROUF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32003,
+    "lib_commune": "AIT YOUSSEF OUALI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15003,
+    "lib_commune": "AIT YADINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90090,
+    "lib_commune": "AL OUAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93036,
+    "lib_commune": "AL KHRROUB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43222,
+    "lib_commune": "AKARMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16172,
+    "lib_commune": "AL HAOUAFATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93066,
+    "lib_commune": "AL HAMRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93055,
+    "lib_commune": "ALLYENE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23206,
+    "lib_commune": "AL KHALFIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62255,
+    "lib_commune": "AMEJJAOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14206,
+    "lib_commune": "AMEUR CHAMALIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41103,
+    "lib_commune": "ALOUIDANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83264,
+    "lib_commune": "AMALOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90062,
+    "lib_commune": "AL MANZLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54365,
+    "lib_commune": "AMERSID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 11043,
+    "lib_commune": "AMEUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85103,
+    "lib_commune": "ANZI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81016,
+    "lib_commune": "AMTDI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 72005,
+    "lib_commune": "AMGALA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 94150,
+    "lib_commune": "ANJRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14064,
+    "lib_commune": "AMEUR SEFLIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87105,
+    "lib_commune": "AOUGUENZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42104,
+    "lib_commune": "AMGHRAS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80322,
+    "lib_commune": "AQESRI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85522,
+    "lib_commune": "ARBAA AIT ABDALLAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90064,
+    "lib_commune": "AQOUASS BRIECH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81213,
+    "lib_commune": "AOUINT YGHOMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81212,
+    "lib_commune": "AOUINT LAHNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85123,
+    "lib_commune": "ARBAA AIT AHMED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83324,
+    "lib_commune": "ARAZANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44081,
+    "lib_commune": "ASSAISSE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92022,
+    "lib_commune": "AYACHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85152,
+    "lib_commune": "ARBAA RASMOUKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83422,
+    "lib_commune": "ASSADS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81026,
+    "lib_commune": "ASRIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45104,
+    "lib_commune": "AZNAGUEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83152,
+    "lib_commune": "ASKAOUEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35022,
+    "lib_commune": "BAB BOUDIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93103,
+    "lib_commune": "BELYOUNECH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90036,
+    "lib_commune": "AZZINATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62256,
+    "lib_commune": "AZLAF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46034,
+    "lib_commune": "AYIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16012,
+    "lib_commune": "BAB TIOUKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91052,
+    "lib_commune": "BAB BERRED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 73016,
+    "lib_commune": "BIR ANZARANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14305,
+    "lib_commune": "BENI MALEK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35102,
+    "lib_commune": "BARKINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26474,
+    "lib_commune": "BEN MAACHOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 82012,
+    "lib_commune": "BEN KHLIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 13103,
+    "lib_commune": "BIR ENNASR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62102,
+    "lib_commune": "BEN TAIEB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51123,
+    "lib_commune": "BITIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25252,
+    "lib_commune": "BNI BATAOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 74004,
+    "lib_commune": "BIR GANDOUZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31152,
+    "lib_commune": "BIR TAM TAM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22202,
+    "lib_commune": "BIN EL OUIDANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32355,
+    "lib_commune": "BNI AHMED IMOUKZAN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92006,
+    "lib_commune": "BNI AROUSS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35013,
+    "lib_commune": "BNI FRASSEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91005,
+    "lib_commune": "BNI DARKOUL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62672,
+    "lib_commune": "BNI BOUIFROUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91006,
+    "lib_commune": "BNI FAGHLOUM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32356,
+    "lib_commune": "BNI BOUCHIBET",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35002,
+    "lib_commune": "BNI FTAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91034,
+    "lib_commune": "BNI BOUZRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32152,
+    "lib_commune": "BNI HAFIDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93023,
+    "lib_commune": "BNI IDDER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93062,
+    "lib_commune": "BNI HARCHEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32122,
+    "lib_commune": "BNI GMIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92002,
+    "lib_commune": "BNI GARFETT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 60064,
+    "lib_commune": "BNI KHALED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24352,
+    "lib_commune": "BNI HILAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64101,
+    "lib_commune": "BNI MTHAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16054,
+    "lib_commune": "BNI OUAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93043,
+    "lib_commune": "BNI LEIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52472,
+    "lib_commune": "BNI MHAMED SIJELMASSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62044,
+    "lib_commune": "BNI MARGHNINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91062,
+    "lib_commune": "BNI RZINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91055,
+    "lib_commune": "BNI MANSOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91063,
+    "lib_commune": "BNI SELMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24355,
+    "lib_commune": "BNI TSIRISS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93044,
+    "lib_commune": "BNI SAID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16224,
+    "lib_commune": "BNI QOLLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62042,
+    "lib_commune": "BNI OUKIL OULED MHAND",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62852,
+    "lib_commune": "BNI SIDEL JBEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91012,
+    "lib_commune": "BNI SALAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41073,
+    "lib_commune": "BOUABOUT AMDLANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25272,
+    "lib_commune": "BNI ZRANTEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61102,
+    "lib_commune": "BNI TADJITE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 28815,
+    "lib_commune": "BNI YAKHLEF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26014,
+    "lib_commune": "BNI YAGRINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34055,
+    "lib_commune": "BOUADEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25003,
+    "lib_commune": "BNI YKHLEF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61272,
+    "lib_commune": "BOUCHAOUENE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24362,
+    "lib_commune": "BOUHMAME",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34012,
+    "lib_commune": "BOUAROUSS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43154,
+    "lib_commune": "BOUCHANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41071,
+    "lib_commune": "BOUABOUT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63254,
+    "lib_commune": "BOUGHRIBA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46252,
+    "lib_commune": "BOUGUEDRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15122,
+    "lib_commune": "BOUQACHMIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85402,
+    "lib_commune": "BOUNAAMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25152,
+    "lib_commune": "BOULANOUARE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83013,
+    "lib_commune": "BOUNRAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 70042,
+    "lib_commune": "BOUKRAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35053,
+    "lib_commune": "BOURD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14203,
+    "lib_commune": "BOUMAIZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44212,
+    "lib_commune": "BOUZEMMOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35065,
+    "lib_commune": "BRAGHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15153,
+    "lib_commune": "BRACHOUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23072,
+    "lib_commune": "BOUTFERDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43304,
+    "lib_commune": "BOURROUS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25383,
+    "lib_commune": "BRAKSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23302,
+    "lib_commune": "BRADIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 13104,
+    "lib_commune": "CHERRAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43112,
+    "lib_commune": "CHOARA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 60006,
+    "lib_commune": "BSARA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 82013,
+    "lib_commune": "CHBIKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50354,
+    "lib_commune": "CHARQAOUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24175,
+    "lib_commune": "CHTOUKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24403,
+    "lib_commune": "CHAIBATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62202,
+    "lib_commune": "DAR EL KEBDANI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91042,
+    "lib_commune": "DERDARA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14222,
+    "lib_commune": "DAR BEL AMRI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63253,
+    "lib_commune": "CHOUIHIYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52023,
+    "lib_commune": "CHORFA MDAGHRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42105,
+    "lib_commune": "DAR JAMAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93052,
+    "lib_commune": "DAR BNI KARRICH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83353,
+    "lib_commune": "EDDIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81013,
+    "lib_commune": "ECHATEA EL ABIED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 86361,
+    "lib_commune": "DCHEIRA EL JIHADIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41202,
+    "lib_commune": "DOUIRANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50064,
+    "lib_commune": "DKHISSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65812,
+    "lib_commune": "EL AIOUN SIDI MELLOUK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80044,
+    "lib_commune": "DRARGUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46023,
+    "lib_commune": "EL BEDDOUZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25022,
+    "lib_commune": "EL FOQRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 73014,
+    "lib_commune": "EL ARGOUB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65404,
+    "lib_commune": "EL ATEF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43074,
+    "lib_commune": "EDDACHRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54032,
+    "lib_commune": "EL BORJ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34223,
+    "lib_commune": "EL BSABSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44250,
+    "lib_commune": "EL HANCHANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35172,
+    "lib_commune": "EL GOUZATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15013,
+    "lib_commune": "EL GANZRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 70054,
+    "lib_commune": "EL HAGOUNIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46202,
+    "lib_commune": "EL GANTOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54203,
+    "lib_commune": "EL KBAB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46174,
+    "lib_commune": "EL GHIATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43006,
+    "lib_commune": "EL MARBOUH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33006,
+    "lib_commune": "ERMILA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 70040,
+    "lib_commune": "EL MARSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85022,
+    "lib_commune": "EL MAADER EL KABIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83372,
+    "lib_commune": "EL KOUDIA EL BEIDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16153,
+    "lib_commune": "ERMILATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52421,
+    "lib_commune": "ENNZALA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52222,
+    "lib_commune": "ETTAOUS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44213,
+    "lib_commune": "EZZAOUITE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43012,
+    "lib_commune": "ERRAFIAYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52470,
+    "lib_commune": "ESSIFA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52453,
+    "lib_commune": "ESSFALAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52254,
+    "lib_commune": "FERKLA EL OULIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52016,
+    "lib_commune": "ERRTEB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63053,
+    "lib_commune": "FEZOUANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43124,
+    "lib_commune": "FRAITA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52002,
+    "lib_commune": "FERKLA ESSOUFIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34045,
+    "lib_commune": "FENNASSA BAB EL HIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15154,
+    "lib_commune": "EZZHILIGA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26303,
+    "lib_commune": "FOQRA OULAD AAMEUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52372,
+    "lib_commune": "FEZNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35272,
+    "lib_commune": "GHIATA AL GHARBIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45025,
+    "lib_commune": "GHASSATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 70022,
+    "lib_commune": "FOUM EL OUAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35025,
+    "lib_commune": "GALDAMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64573,
+    "lib_commune": "GAFAIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 73006,
+    "lib_commune": "GLEIBAT EL FOULA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26522,
+    "lib_commune": "GDANA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 71004,
+    "lib_commune": "GUELTAT ZEMMOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35076,
+    "lib_commune": "GZENAYA AL JANOUBIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41223,
+    "lib_commune": "GMASSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65813,
+    "lib_commune": "GTETER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52252,
+    "lib_commune": "GHERIS ESSOUFLI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33053,
+    "lib_commune": "GUIGOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52405,
+    "lib_commune": "GUIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23223,
+    "lib_commune": "HEL MERBAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14070,
+    "lib_commune": "HADDADA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54402,
+    "lib_commune": "HAD BOUHSSOUSSEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 72006,
+    "lib_commune": "HAOUZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90302,
+    "lib_commune": "HAD AL GHARBIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43034,
+    "lib_commune": "HIADNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23122,
+    "lib_commune": "HAD BOUMOUSSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15073,
+    "lib_commune": "HOUDERRANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83326,
+    "lib_commune": "IDA OU GAILAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46006,
+    "lib_commune": "HRARA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90025,
+    "lib_commune": "HJAR ENNHAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87702,
+    "lib_commune": "HILALA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87402,
+    "lib_commune": "IDA OU GNIDIF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44072,
+    "lib_commune": "IDA OU AAZZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42154,
+    "lib_commune": "IGHIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45156,
+    "lib_commune": "IGHIL NOUMGOUN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85126,
+    "lib_commune": "IDA OU GOUGMAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45252,
+    "lib_commune": "IGHERM OUGDAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81102,
+    "lib_commune": "IFRANE ATLAS SAGHIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83535,
+    "lib_commune": "IGOUDAR MNABHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62045,
+    "lib_commune": "IFERNI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42155,
+    "lib_commune": "IJOUKAK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45872,
+    "lib_commune": "IMI NOULAOUNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42054,
+    "lib_commune": "IGUERFEROUANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83323,
+    "lib_commune": "IGLI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46052,
+    "lib_commune": "IGHOUD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62034,
+    "lib_commune": "IKSANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62422,
+    "lib_commune": "IJERMAOUAS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33152,
+    "lib_commune": "IMMOUZZER MARMOUCHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22305,
+    "lib_commune": "IMLIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44214,
+    "lib_commune": "IMGRADE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44076,
+    "lib_commune": "IMI NTLIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83285,
+    "lib_commune": "IMI NTAYART",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83023,
+    "lib_commune": "IMOULASS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41233,
+    "lib_commune": "IMINDOUNIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51012,
+    "lib_commune": "IQADDAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84052,
+    "lib_commune": "ISSAFEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80043,
+    "lib_commune": "IMSOUANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91073,
+    "lib_commune": "IOUNANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80303,
+    "lib_commune": "IMMOUZZER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41055,
+    "lib_commune": "IROHALEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 60022,
+    "lib_commune": "ISLY",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43302,
+    "lib_commune": "JBILATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 27183,
+    "lib_commune": "JAQMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43422,
+    "lib_commune": "JAAFRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93024,
+    "lib_commune": "JBEL LAHBIB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22406,
+    "lib_commune": "ISSEKSI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 72012,
+    "lib_commune": "JDIRIYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24363,
+    "lib_commune": "JABRIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 94031,
+    "lib_commune": "JOUAMAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35044,
+    "lib_commune": "KAF EL GHAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64550,
+    "lib_commune": "JRADA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46082,
+    "lib_commune": "JNAN BOUIH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15173,
+    "lib_commune": "JEMAAT MOUL BLAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91154,
+    "lib_commune": "KALAAT BOUQORRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 71003,
+    "lib_commune": "JRAIFIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84073,
+    "lib_commune": "KASBAT SIDI ABDALLAH BEN MBAREK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14221,
+    "lib_commune": "KCEIBYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45202,
+    "lib_commune": "KALAAT MGOUNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26305,
+    "lib_commune": "KASBAT BEN MCHICH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14322,
+    "lib_commune": "KARIAT BEN AOUDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26015,
+    "lib_commune": "KHEMISSET CHAOUIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34050,
+    "lib_commune": "KARIAT BA MOHAMED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34104,
+    "lib_commune": "KISSANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23222,
+    "lib_commune": "KRIFATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24072,
+    "lib_commune": "KHMIS KSIBA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15423,
+    "lib_commune": "KHEMISS SIDI YAHYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44013,
+    "lib_commune": "KECHOULA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44272,
+    "lib_commune": "KORIMATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16102,
+    "lib_commune": "KHNICHET",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24376,
+    "lib_commune": "LAAMRIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47904,
+    "lib_commune": "KTAOUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41006,
+    "lib_commune": "KOUZEMT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92156,
+    "lib_commune": "KSAR BJIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33254,
+    "lib_commune": "KSABI MOULOUYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31015,
+    "lib_commune": "LAANOUSSAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 94033,
+    "lib_commune": "KSAR EL MAJAZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24052,
+    "lib_commune": "LAAOUNATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43102,
+    "lib_commune": "LAATTAOUIA ECHCHAYBIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90080,
+    "lib_commune": "LAAOUAMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64553,
+    "lib_commune": "LAAOUINATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46153,
+    "lib_commune": "LAAMAMRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43125,
+    "lib_commune": "LAATAMNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24365,
+    "lib_commune": "LAATATRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24104,
+    "lib_commune": "LAGHDIRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83376,
+    "lib_commune": "LAGFIFAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81042,
+    "lib_commune": "LABYAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91013,
+    "lib_commune": "LAGHDIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43173,
+    "lib_commune": "LABRIKIYNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24203,
+    "lib_commune": "LAGHNADRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44014,
+    "lib_commune": "LAGDADRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 74005,
+    "lib_commune": "LAGOUIRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26106,
+    "lib_commune": "LAHSASNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46043,
+    "lib_commune": "LAHDAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15172,
+    "lib_commune": "LAGHOUALEM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26473,
+    "lib_commune": "LAGHNIMYINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44015,
+    "lib_commune": "LAHSINATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26016,
+    "lib_commune": "LAHOUAZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83304,
+    "lib_commune": "LAMHARA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24105,
+    "lib_commune": "LAMHARZA ESSAHEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26056,
+    "lib_commune": "LAKHZAZRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26306,
+    "lib_commune": "LAMBARKIYINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46154,
+    "lib_commune": "LAMAACHATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35116,
+    "lib_commune": "LAMRIJA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42202,
+    "lib_commune": "LALLA TAKARKOUST",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92052,
+    "lib_commune": "LAOUAMRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64554,
+    "lib_commune": "LEBKHATA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 71005,
+    "lib_commune": "LAMSSID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16055,
+    "lib_commune": "LAMRABIH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16204,
+    "lib_commune": "LAMJAARA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26273,
+    "lib_commune": "LAQRAQRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41022,
+    "lib_commune": "LAMZOUDIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24252,
+    "lib_commune": "LOUALIDIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52024,
+    "lib_commune": "LKHENG",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24150,
+    "lib_commune": "LBIR JDID",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24452,
+    "lib_commune": "LGHARBIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54022,
+    "lib_commune": "LEHRI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40253,
+    "lib_commune": "LOUDAYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 86356,
+    "lib_commune": "LGLIAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32033,
+    "lib_commune": "LOUTA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26673,
+    "lib_commune": "MACHRAA BEN ABBOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26700,
+    "lib_commune": "LOULAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43025,
+    "lib_commune": "LOUNASDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 36162,
+    "lib_commune": "LOUADAINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61012,
+    "lib_commune": "MAATARKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 30110,
+    "lib_commune": "MACHOUAR FES EL JADID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16205,
+    "lib_commune": "MASMOUDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93063,
+    "lib_commune": "MALLALIENNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35012,
+    "lib_commune": "MAGHRAOUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 94053,
+    "lib_commune": "MALLOUSSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83024,
+    "lib_commune": "MACHRAA EL AIN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35104,
+    "lib_commune": "MAZGUITAM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41224,
+    "lib_commune": "MAJJAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35024,
+    "lib_commune": "MEKNASSA ALGHARBIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44274,
+    "lib_commune": "MESKALA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52602,
+    "lib_commune": "MELAAB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65472,
+    "lib_commune": "MECHRAA HAMMADI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40040,
+    "lib_commune": "MECHOUAR-KASBA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26703,
+    "lib_commune": "MESKOURA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 12025,
+    "lib_commune": "MERS ELK HEIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47402,
+    "lib_commune": "MHAMID EL GHIZLANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50152,
+    "lib_commune": "MHAYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65473,
+    "lib_commune": "MESTEGMER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47055,
+    "lib_commune": "MEZGUITA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24322,
+    "lib_commune": "METTOUH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40173,
+    "lib_commune": "MNABHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24073,
+    "lib_commune": "METRANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24404,
+    "lib_commune": "MOGRESS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46123,
+    "lib_commune": "MOUL EL BERGUI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26062,
+    "lib_commune": "MNIAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44016,
+    "lib_commune": "MKHALIF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 73012,
+    "lib_commune": "MIJIK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54014,
+    "lib_commune": "MOHA OU HAMMOU ZAYANI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14023,
+    "lib_commune": "MOGRANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15072,
+    "lib_commune": "MOULAY DRISS AGHBAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52015,
+    "lib_commune": "MOULAY ALI CHERIF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 13033,
+    "lib_commune": "MOUALINE EL OUAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32362,
+    "lib_commune": "MOULAY AHMED CHERIF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16056,
+    "lib_commune": "MOULAY ABDELKADER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50353,
+    "lib_commune": "MOULAY IDRISS ZERHOUN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22252,
+    "lib_commune": "MOULAY AISSA BEN DRISS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50375,
+    "lib_commune": "MRHASSIYINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 82023,
+    "lib_commune": "MSIED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15424,
+    "lib_commune": "MQAM TOLBA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44122,
+    "lib_commune": "MRAMER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14302,
+    "lib_commune": "MOULAY BOUSSELHAM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26622,
+    "lib_commune": "MRIZIGUE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14046,
+    "lib_commune": "MSAADA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43103,
+    "lib_commune": "MZEM SANHAJA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26066,
+    "lib_commune": "MZAMZA JANOUBIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62263,
+    "lib_commune": "MTALSSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16206,
+    "lib_commune": "MZEFROUNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35152,
+    "lib_commune": "MSILA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44123,
+    "lib_commune": "MZILATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31222,
+    "lib_commune": "MTARNAGHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46173,
+    "lib_commune": "NAGGA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83275,
+    "lib_commune": "NIHIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23155,
+    "lib_commune": "NAOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41225,
+    "lib_commune": "MZOUDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52423,
+    "lib_commune": "MZIZEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50352,
+    "lib_commune": "NZALAT BNI AMAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41056,
+    "lib_commune": "NFIFA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51172,
+    "lib_commune": "OUAD JDIDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34225,
+    "lib_commune": "OUAD JEMAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43153,
+    "lib_commune": "NZALAT LAADAM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 53103,
+    "lib_commune": "OUAD IFRANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87223,
+    "lib_commune": "OUAD ESSAFA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50025,
+    "lib_commune": "OUAD ROMMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14123,
+    "lib_commune": "OUAD EL MAKHAZINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83273,
+    "lib_commune": "OUALQADI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42106,
+    "lib_commune": "OUAZGUITA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41105,
+    "lib_commune": "OUAHAT SIDI BRAHIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26572,
+    "lib_commune": "OUAD NAANAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91122,
+    "lib_commune": "OUAD MALHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22402,
+    "lib_commune": "OUAOUIZAGHT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50373,
+    "lib_commune": "OUALILI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25023,
+    "lib_commune": "OULAD ABDOUNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40273,
+    "lib_commune": "OUKAIMDEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62046,
+    "lib_commune": "OUARDANA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85003,
+    "lib_commune": "OUIJJANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34105,
+    "lib_commune": "OUDKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93045,
+    "lib_commune": "OULAD ALI MANSOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45105,
+    "lib_commune": "OUISSELSATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26275,
+    "lib_commune": "OULAD AMER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26272,
+    "lib_commune": "OULAD BOUALI NOUAJA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 13014,
+    "lib_commune": "OULAD ALI TOUALAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33013,
+    "lib_commune": "OULAD ALI YOUSSEF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43104,
+    "lib_commune": "OULAD AARRAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14225,
+    "lib_commune": "OULAD BEN HAMMADI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43035,
+    "lib_commune": "OULAD BOUALI LOUAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43014,
+    "lib_commune": "OULAD EL GARNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43013,
+    "lib_commune": "OULAD CHERKI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24366,
+    "lib_commune": "OULAD BOUSSAKEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 86622,
+    "lib_commune": "OULAD DAHOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25402,
+    "lib_commune": "OULAD BOUGHADI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26623,
+    "lib_commune": "OULAD FARES",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26116,
+    "lib_commune": "OULAD CEBBAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24272,
+    "lib_commune": "OULAD GHANEM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43170,
+    "lib_commune": "OULAD HASSOUNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64123,
+    "lib_commune": "OULAD GHZIYEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26024,
+    "lib_commune": "OULAD FREIHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26274,
+    "lib_commune": "OULAD FARES EL HALLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14205,
+    "lib_commune": "OULAD HCINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23156,
+    "lib_commune": "OULAD GNAOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65405,
+    "lib_commune": "OULAD MHAMMED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 36126,
+    "lib_commune": "OULAD MIMOUN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24023,
+    "lib_commune": "OULAD HCINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23452,
+    "lib_commune": "OULAD MBAREK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43015,
+    "lib_commune": "OULAD MASSAOUD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42112,
+    "lib_commune": "OULAD MTAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43105,
+    "lib_commune": "OULAD KHALLOUF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92162,
+    "lib_commune": "OULAD OUCHIH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24204,
+    "lib_commune": "OULAD SBAITA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26573,
+    "lib_commune": "OULAD NACER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26032,
+    "lib_commune": "OULAD MRAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31202,
+    "lib_commune": "OULAD MKOUDOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24106,
+    "lib_commune": "OULAD RAHMOUNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16062,
+    "lib_commune": "OULAD NOUEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47056,
+    "lib_commune": "OULAD YAHYA LAGRAIRE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64103,
+    "lib_commune": "OULAD SIDI ABDELHAKEM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46035,
+    "lib_commune": "OULAD SALMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62043,
+    "lib_commune": "OULAD SETTOUT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43016,
+    "lib_commune": "OULAD SBIH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 13012,
+    "lib_commune": "OULAD YAHYA LOUTA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24374,
+    "lib_commune": "OULAD SI BOUHYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35042,
+    "lib_commune": "OULAD ZBAIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 73013,
+    "lib_commune": "OUM DREYGA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23502,
+    "lib_commune": "OULAD YAICH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23374,
+    "lib_commune": "OULAD YOUSSEF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 30023,
+    "lib_commune": "OULAD TAYEB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26201,
+    "lib_commune": "OULAD ZIYANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23575,
+    "lib_commune": "OULAD ZMAM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64555,
+    "lib_commune": "RAS ASFOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41012,
+    "lib_commune": "RAHHALA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34044,
+    "lib_commune": "OURTZAGH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43306,
+    "lib_commune": "RAS AIN RHAMNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42452,
+    "lib_commune": "OURIKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26552,
+    "lib_commune": "RAS EL AIN CHAOUIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34226,
+    "lib_commune": "OUTABOUABANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34102,
+    "lib_commune": "RATBA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85023,
+    "lib_commune": "REGGADA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35253,
+    "lib_commune": "RBAA EL FOUKI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51032,
+    "lib_commune": "RAS IJERRI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34232,
+    "lib_commune": "RAS EL OUAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92012,
+    "lib_commune": "RISSANA CHAMALIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 13015,
+    "lib_commune": "RDADNA OULAD MALEK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90066,
+    "lib_commune": "SAHEL CHAMALI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26124,
+    "lib_commune": "SAHEL OULAD HRIZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40160,
+    "lib_commune": "SAADA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92102,
+    "lib_commune": "SAHEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93064,
+    "lib_commune": "SADDINA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54423,
+    "lib_commune": "SEBT AIT RAHOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 12072,
+    "lib_commune": "SABBAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33005,
+    "lib_commune": "SERGHINA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41152,
+    "lib_commune": "SID LMOKHTAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 36155,
+    "lib_commune": "SEBT LOUDAYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51150,
+    "lib_commune": "SBAA AIYOUN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93046,
+    "lib_commune": "SAHTRYINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26064,
+    "lib_commune": "SGAMNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16013,
+    "lib_commune": "SELFAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44024,
+    "lib_commune": "SIDI ABDELJALIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42051,
+    "lib_commune": "SIDI ABDALLAH GHIAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24405,
+    "lib_commune": "SI HSAIEN BEN ABDERRAHMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50356,
+    "lib_commune": "SIDI ABDALLAH AL KHAYAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40202,
+    "lib_commune": "SID ZOUINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26113,
+    "lib_commune": "SIDI ABDELKHALEQ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87126,
+    "lib_commune": "SIDI ABDALLAH EL BOUCHOUARI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16063,
+    "lib_commune": "SIDI AHMED BEN AISSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23570,
+    "lib_commune": "SIDI AISSA BEN ALI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26065,
+    "lib_commune": "SIDI ABDELKRIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41013,
+    "lib_commune": "SIDI ABDELMOUMEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83305,
+    "lib_commune": "SIDI ABDALLAH OU SAID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83014,
+    "lib_commune": "SIDI AHMED OU ABDELLAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85132,
+    "lib_commune": "SIDI AHMED OU MOUSSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14052,
+    "lib_commune": "SIDI ALLAL TAZI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43403,
+    "lib_commune": "SIDI ALI LABRAHLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65406,
+    "lib_commune": "SIDI ALI BELKASSEM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15005,
+    "lib_commune": "SIDI ALLAL LAMSADDER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44025,
+    "lib_commune": "SIDI AISSA REGRAGUI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54015,
+    "lib_commune": "SIDI AMAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24112,
+    "lib_commune": "SIDI ALI BEN HAMDOUCHE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63652,
+    "lib_commune": "SIDI BOUHRIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 60065,
+    "lib_commune": "SIDI BOULENOUAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 11052,
+    "lib_commune": "SIDI BOUKNADEL",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42113,
+    "lib_commune": "SIDI BADHAJ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16324,
+    "lib_commune": "SIDI AMEUR EL HADI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22306,
+    "lib_commune": "SIDI BOULKHALF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44032,
+    "lib_commune": "SIDI BOULAALAM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83015,
+    "lib_commune": "SIDI DAHMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15033,
+    "lib_commune": "SIDI EL GHANDOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26704,
+    "lib_commune": "SIDI BOUMEHDI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41014,
+    "lib_commune": "SIDI BOUZID ARRAGRAGUI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32363,
+    "lib_commune": "SIDI BOUTMIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90054,
+    "lib_commune": "SIDI EL YAMANI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33255,
+    "lib_commune": "SIDI BOUTAYEB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 29672,
+    "lib_commune": "SIDI HAJJAJ OUAD HASSAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44232,
+    "lib_commune": "SIDI HMAD OU MBAREK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46024,
+    "lib_commune": "SIDI ETTIJI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26114,
+    "lib_commune": "SIDI EL MEKKI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44215,
+    "lib_commune": "SIDI EL JAZOULI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23232,
+    "lib_commune": "SIDI HAMMADI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40110,
+    "lib_commune": "SIDI GHANEME",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16064,
+    "lib_commune": "SIDI MHAMED CHELH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43404,
+    "lib_commune": "SIDI MANSOUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44216,
+    "lib_commune": "SIDI HMAD OU HAMED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54025,
+    "lib_commune": "SIDI LAMINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44033,
+    "lib_commune": "SIDI LAAROUSSI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41004,
+    "lib_commune": "SIDI MHAMED DALIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34133,
+    "lib_commune": "SIDI LHAJ MHAMED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26033,
+    "lib_commune": "SIDI MOHAMMED BEN RAHAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83354,
+    "lib_commune": "SIDI MOUSSA LHAMRI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44034,
+    "lib_commune": "SIDI MHAMED OU MARZOUQ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14323,
+    "lib_commune": "SIDI MOHAMED LAHMAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24034,
+    "lib_commune": "SIDI MHAMED AKHDIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 28823,
+    "lib_commune": "SIDI MOUSSA EL MAJDOUB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 60066,
+    "lib_commune": "SIDI MOUSSA LEMHAYA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34106,
+    "lib_commune": "SIDI YAHYA BNI ZEROUAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50122,
+    "lib_commune": "SIDI SLIMANE MOUL AL KIFANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87135,
+    "lib_commune": "SIDI OUASSAY",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22312,
+    "lib_commune": "SIDI YACOUB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83256,
+    "lib_commune": "SIDI MZAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14250,
+    "lib_commune": "SIDI YAHYA EL GHARB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26175,
+    "lib_commune": "SIDI RAHAL CHATAI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45106,
+    "lib_commune": "SIROUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43405,
+    "lib_commune": "SKOURA LHADRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43402,
+    "lib_commune": "SKHOUR RHAMNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 12152,
+    "lib_commune": "SIDI YAHYA ZAER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54523,
+    "lib_commune": "SIDI YAHYA OU YOUSSEF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33012,
+    "lib_commune": "SKOURA MDAZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45502,
+    "lib_commune": "SKOURA AHL EL OUST",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92164,
+    "lib_commune": "SOUK LQOLLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14005,
+    "lib_commune": "SOUK TLET EL GHARB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92163,
+    "lib_commune": "SOUAKEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45352,
+    "lib_commune": "SOUK LAKHMISS DADES",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93065,
+    "lib_commune": "SOUK KDIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22405,
+    "lib_commune": "TABAROUCHT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 40255,
+    "lib_commune": "SOUIHLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62752,
+    "lib_commune": "TAFERSIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83016,
+    "lib_commune": "TAFRAOUTEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25452,
+    "lib_commune": "TACHRAFAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22452,
+    "lib_commune": "TABANT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43106,
+    "lib_commune": "SOUR EL AAZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44102,
+    "lib_commune": "TAFETACHTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52502,
+    "lib_commune": "TADIGHOUST",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 70055,
+    "lib_commune": "TAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45652,
+    "lib_commune": "TAGHZOUTE NAIT ATTA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34013,
+    "lib_commune": "TAFRANT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81152,
+    "lib_commune": "TAGHJIJT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47722,
+    "lib_commune": "TAGHBALTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42302,
+    "lib_commune": "TAHANNAOUT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 94122,
+    "lib_commune": "TAGHRAMT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35014,
+    "lib_commune": "TAINASTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42353,
+    "lib_commune": "TALAT NYAAQOUB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44233,
+    "lib_commune": "TAHELOUANTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35045,
+    "lib_commune": "TAIFA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84025,
+    "lib_commune": "TAGMOUT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44234,
+    "lib_commune": "TAKOUCHT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93252,
+    "lib_commune": "TALAMBOTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84122,
+    "lib_commune": "TAMANARTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42055,
+    "lib_commune": "TAMAGUERT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81043,
+    "lib_commune": "TALIOUINE ASSAKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83044,
+    "lib_commune": "TAMALOUKTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83325,
+    "lib_commune": "TALGJOUNT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51055,
+    "lib_commune": "TAMCHACHATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83103,
+    "lib_commune": "TALMAKANTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91072,
+    "lib_commune": "TAMOROT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91045,
+    "lib_commune": "TANAQOUB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32364,
+    "lib_commune": "TAMSAOUT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22014,
+    "lib_commune": "TAMDA NOUMERCID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24375,
+    "lib_commune": "TAMDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23674,
+    "lib_commune": "TANOUGHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22552,
+    "lib_commune": "TANANT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44224,
+    "lib_commune": "TARGA NTOUCHKA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44235,
+    "lib_commune": "TARGANTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54366,
+    "lib_commune": "TANOURDI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43032,
+    "lib_commune": "TAOUZINT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41075,
+    "lib_commune": "TAOULOUKOULT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85486,
+    "lib_commune": "TASSRIRT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16065,
+    "lib_commune": "TAOUGHILT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62262,
+    "lib_commune": "TAZAGHINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83035,
+    "lib_commune": "TAZEMMOURT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83253,
+    "lib_commune": "TATAOUTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87123,
+    "lib_commune": "TASSEGDELT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45000,
+    "lib_commune": "TARMIGT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47703,
+    "lib_commune": "TAZARINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92202,
+    "lib_commune": "TATOFT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45112,
+    "lib_commune": "TIDLI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62402,
+    "lib_commune": "TEMSAMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42084,
+    "lib_commune": "TAZART",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16014,
+    "lib_commune": "TEKNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92013,
+    "lib_commune": "TAZROUTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 72014,
+    "lib_commune": "TIFARITI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45273,
+    "lib_commune": "TELOUET",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54003,
+    "lib_commune": "TIGHASSALINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81015,
+    "lib_commune": "TIGLIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32032,
+    "lib_commune": "TIFAROUINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22404,
+    "lib_commune": "TIFFERT NAIT HAMZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 74006,
+    "lib_commune": "TICHLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85252,
+    "lib_commune": "TIGHIRT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85102,
+    "lib_commune": "TIGHMI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41005,
+    "lib_commune": "TIMLILT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41076,
+    "lib_commune": "TIMEZGADIOUINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 53113,
+    "lib_commune": "TIGRIGRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44225,
+    "lib_commune": "TIMIZGUIDA OUFTAS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83332,
+    "lib_commune": "TIGOUGA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22702,
+    "lib_commune": "TIMOULILT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84003,
+    "lib_commune": "TIGZMERTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83262,
+    "lib_commune": "TISFANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83533,
+    "lib_commune": "TIZGAZAOUINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22253,
+    "lib_commune": "TISQI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85502,
+    "lib_commune": "TIOUGHZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83306,
+    "lib_commune": "TINZART",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 53004,
+    "lib_commune": "TIZGUITE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91056,
+    "lib_commune": "TIZGANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84074,
+    "lib_commune": "TIZOUNINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43312,
+    "lib_commune": "TLAUH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54382,
+    "lib_commune": "TIZI NGHACHOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85483,
+    "lib_commune": "TIZOUGHRANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35352,
+    "lib_commune": "TIZI OUASLI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45824,
+    "lib_commune": "TOUDGHA EL OULIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83312,
+    "lib_commune": "TIZI NTEST",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81214,
+    "lib_commune": "TOUIZGUI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62054,
+    "lib_commune": "TSAFT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45825,
+    "lib_commune": "TOUDGHA ESSOUFLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 10070,
+    "lib_commune": "TOUARGA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81172,
+    "lib_commune": "TNINE ADAY",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83263,
+    "lib_commune": "TOUMLILINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83282,
+    "lib_commune": "TOUFELAAZT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24412,
+    "lib_commune": "ZAOUIAT SAISS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22050,
+    "lib_commune": "ZAOUIAT AHANSAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62053,
+    "lib_commune": "TROUGOUT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16023,
+    "lib_commune": "ZAGOTTA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83503,
+    "lib_commune": "ZAGMOUZEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32026,
+    "lib_commune": "ZAOUIAT SIDI ABDELKADER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93053,
+    "lib_commune": "ZAITOUNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93032,
+    "lib_commune": "ZAOUIAT SIDI KACEM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42075,
+    "lib_commune": "ZERKTEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26451,
+    "lib_commune": "ZAOUIAT SIDI BEN HAMDOUN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52425,
+    "lib_commune": "ZAOUIAT SIDI HAMZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24406,
+    "lib_commune": "ZAOUIAT LAKOUACEM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24200,
+    "lib_commune": "ZEMAMRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43474,
+    "lib_commune": "ZEMRANE CHARQIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90072,
+    "lib_commune": "BGHAGHZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90050,
+    "lib_commune": "ASSILAH",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93051,
+    "lib_commune": "ZINAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 90052,
+    "lib_commune": "DAR CHAOUI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16212,
+    "lib_commune": "ZGHIRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91000,
+    "lib_commune": "CHEFCHAOUEN",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43033,
+    "lib_commune": "ZNADA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91024,
+    "lib_commune": "ASJEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91036,
+    "lib_commune": "TASSIFT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91026,
+    "lib_commune": "BRIKCHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91003,
+    "lib_commune": "STEHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91002,
+    "lib_commune": "BAB TAZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91123,
+    "lib_commune": "BNI AHMED GHARBIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91033,
+    "lib_commune": "FIFI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92023,
+    "lib_commune": "SIDI ALI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92024,
+    "lib_commune": "ZAAROURA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91124,
+    "lib_commune": "MANSOURA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91202,
+    "lib_commune": "ZOUMI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91174,
+    "lib_commune": "OUAOUZGANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92272,
+    "lib_commune": "RISSANA JANOUBIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91173,
+    "lib_commune": "AMTAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93150,
+    "lib_commune": "MARTIL",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 94152,
+    "lib_commune": "KSAR SGHIR",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93022,
+    "lib_commune": "AZLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92173,
+    "lib_commune": "SOUK TOLBA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92072,
+    "lib_commune": "ZOUADA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93200,
+    "lib_commune": "MDIQ",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93100,
+    "lib_commune": "FNIDQ",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 27181,
+    "lib_commune": "VILLE VERTE",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 20170,
+    "lib_commune": "CASA-AIN DIAB 1",
+    "SLA": 2,
+    "Transporteur": "E-DELIVERY"
+  },
+  {
+    "code_postal": 93999,
+    "lib_commune": "TETOUAN",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 99998,
+    "lib_commune": "IAAZZANENE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 99999,
+    "lib_commune": "AL BARKANYENE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 20100,
+    "lib_commune": "CASA - CENTRE VILLE",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 61006,
+    "lib_commune": "BNI GUIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 86360,
+    "lib_commune": "DCHEIRA",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 12100,
+    "lib_commune": "AIN EL AOUDA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 12050,
+    "lib_commune": "SKHIRATE",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 24100,
+    "lib_commune": "AZEMMOUR",
+    "SLA": 4,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 20590,
+    "lib_commune": "CASA-AIN SEBAA",
+    "SLA": 2,
+    "Transporteur": "GOFLEET"
+  },
+  {
+    "code_postal": 14025,
+    "lib_commune": "SIDI TAIBI",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 29004,
+    "lib_commune": "LAHRAOUYINE",
+    "SLA": 2,
+    "Transporteur": "ARAMEX"
+  },
+  {
+    "code_postal": 16072,
+    "lib_commune": "SIDI AZZOUZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16252,
+    "lib_commune": "TEROUAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15102,
+    "lib_commune": "OULMES",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 15273,
+    "lib_commune": "SIDI BOUKHALKHAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14224,
+    "lib_commune": "AZGHAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22250,
+    "lib_commune": "BZOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 16020,
+    "lib_commune": "JORF EL MELHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24123,
+    "lib_commune": "HAOUZIA",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25060,
+    "lib_commune": "BEJAAD",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22652,
+    "lib_commune": "BNI AYAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23350,
+    "lib_commune": "KASBA TADLA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22326,
+    "lib_commune": "TIFNI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25350,
+    "lib_commune": "OUED ZEM",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23602,
+    "lib_commune": "SIDI JABER",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31200,
+    "lib_commune": "EL MENZEL",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32013,
+    "lib_commune": "SENADA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26152,
+    "lib_commune": "BNI KHLOUG",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26450,
+    "lib_commune": "OULAD ABBOU",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25522,
+    "lib_commune": "ROUACHED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32172,
+    "lib_commune": "BNI ABDALLAH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 30999,
+    "lib_commune": "FES",
+    "SLA": 2,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34033,
+    "lib_commune": "MOULAY BOUCHTA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34082,
+    "lib_commune": "SIDI EL ABED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33102,
+    "lib_commune": "EL MERS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 33273,
+    "lib_commune": "OUIZEGHT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32352,
+    "lib_commune": "BNI AMMART",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34233,
+    "lib_commune": "SIDI MHAMED BEN LAHCEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34003,
+    "lib_commune": "AIN MEDIOUNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41023,
+    "lib_commune": "SAIDATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41222,
+    "lib_commune": "BOULAOUANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35125,
+    "lib_commune": "RAS LAKSAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35372,
+    "lib_commune": "SIDI ALI BOURAKBA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35050,
+    "lib_commune": "AKNOUL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42083,
+    "lib_commune": "AIT SIDI DAOUD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 36150,
+    "lib_commune": "MOULAY YACOUB",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43274,
+    "lib_commune": "SIDI AISSA BEN SLIMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43424,
+    "lib_commune": "SIDI GHANEM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42472,
+    "lib_commune": "AGHBALOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43076,
+    "lib_commune": "OULAD AAMER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42124,
+    "lib_commune": "ANOUGAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44082,
+    "lib_commune": "SIDI AHMED ESSAYEH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43174,
+    "lib_commune": "OULAD AAMER TIZMARINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46074,
+    "lib_commune": "LAKHOUALQA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46175,
+    "lib_commune": "LAMRASLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45150,
+    "lib_commune": "BOUMALNE DADES",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45473,
+    "lib_commune": "TILMI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44200,
+    "lib_commune": "TAMANAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47602,
+    "lib_commune": "TAMEGROUTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45823,
+    "lib_commune": "OUAKLIM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52434,
+    "lib_commune": "SIDI AAYAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 53000,
+    "lib_commune": "IFRANE",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50300,
+    "lib_commune": "BOUFAKRANE",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52053,
+    "lib_commune": "AOUFOUS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47923,
+    "lib_commune": "TERNATA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54154,
+    "lib_commune": "BOUMIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52350,
+    "lib_commune": "JORF",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62673,
+    "lib_commune": "IHADDADENE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62922,
+    "lib_commune": "OULAD DAOUD ZKHANINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54999,
+    "lib_commune": "KHENIFRA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61200,
+    "lib_commune": "BOUARFA",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54403,
+    "lib_commune": "MOULAY BOUAZZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63399,
+    "lib_commune": "BERKANE",
+    "SLA": 5,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62253,
+    "lib_commune": "DRIOUCH",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81050,
+    "lib_commune": "BOUIZAKARNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83026,
+    "lib_commune": "SIDI BORJA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 70999,
+    "lib_commune": "LAAYOUNE",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 80323,
+    "lib_commune": "IDMINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 65474,
+    "lib_commune": "TANCHERFI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83123,
+    "lib_commune": "IMILMAISS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81003,
+    "lib_commune": "FASK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84053,
+    "lib_commune": "TISSINT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 84174,
+    "lib_commune": "TLITE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83350,
+    "lib_commune": "OULAD TEIMA",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83424,
+    "lib_commune": "LAMHADI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83222,
+    "lib_commune": "AIT IGAS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85200,
+    "lib_commune": "SIDI IFNI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83526,
+    "lib_commune": "TASSOUSFI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85473,
+    "lib_commune": "AFELLA IGHIR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31023,
+    "lib_commune": "AGHBALOU AQORAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87052,
+    "lib_commune": "AIT AMIRA",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87274,
+    "lib_commune": "SIDI BIBI",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85352,
+    "lib_commune": "MIRLEFT",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54013,
+    "lib_commune": "AGUELMAM AZEGZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32354,
+    "lib_commune": "ABDELGHAYA SOUAHEL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41054,
+    "lib_commune": "AIT HADDOU YOUSSEF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62254,
+    "lib_commune": "AIT MAIT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25472,
+    "lib_commune": "AIN KAICHER",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31204,
+    "lib_commune": "AIN TIMGUENAI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83022,
+    "lib_commune": "AHMAR LAGLALCHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87104,
+    "lib_commune": "AIT MZAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54364,
+    "lib_commune": "AIT BEN YACOUB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52272,
+    "lib_commune": "AMELLAGOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85455,
+    "lib_commune": "AMMELNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45172,
+    "lib_commune": "AIT SEDRATE JBEL SOUFLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 45103,
+    "lib_commune": "AIT ZINEB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22304,
+    "lib_commune": "AIT OUMDIS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44126,
+    "lib_commune": "AQERMOUD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50060,
+    "lib_commune": "AL MACHOUAR - STINIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91102,
+    "lib_commune": "BNI AHMED CHERQIA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23224,
+    "lib_commune": "BNI CHEGDALE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83265,
+    "lib_commune": "AZAGHAR NIRS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14066,
+    "lib_commune": "BAHHARA OULAD AYAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 62352,
+    "lib_commune": "AREKMANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32103,
+    "lib_commune": "BNI GMIL MAKSOULINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83122,
+    "lib_commune": "BIGOUDINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26054,
+    "lib_commune": "BOUGARGOUH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61273,
+    "lib_commune": "BOUMERIEME",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34172,
+    "lib_commune": "BNI OUNJEL TAFRAOUT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34053,
+    "lib_commune": "BNI SNOUS",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35005,
+    "lib_commune": "BNI LENT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35303,
+    "lib_commune": "BOUYABLANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92155,
+    "lib_commune": "BOU JEDYANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23000,
+    "lib_commune": "EL BIBANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46042,
+    "lib_commune": "EL GOURAANI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25502,
+    "lib_commune": "CHOUGRANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50063,
+    "lib_commune": "DAR OUM SOLTANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46044,
+    "lib_commune": "CHAHDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 29002,
+    "lib_commune": "EL MAJJATIA OULAD TALEB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 28822,
+    "lib_commune": "ECHCHALLALATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64152,
+    "lib_commune": "GUENFOUDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44003,
+    "lib_commune": "HAD DRA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 13003,
+    "lib_commune": "FDALATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 23252,
+    "lib_commune": "FOUM EL ANCEUR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47903,
+    "lib_commune": "ERROUHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35043,
+    "lib_commune": "HOUARA OULAD RAHO",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52256,
+    "lib_commune": "GHERIS EL OULOUI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85452,
+    "lib_commune": "IRIGH NTAHALA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 51052,
+    "lib_commune": "JAHJOUH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31205,
+    "lib_commune": "IGHZRANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83272,
+    "lib_commune": "IMAOUEN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83303,
+    "lib_commune": "IDA OUGOUMMAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43472,
+    "lib_commune": "JOUALA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 73015,
+    "lib_commune": "IMLILI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63324,
+    "lib_commune": "LAATAMNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25202,
+    "lib_commune": "LAGFAF",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46022,
+    "lib_commune": "KHATAZAKANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24364,
+    "lib_commune": "KOUDIAT BNI DGHOUGH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31273,
+    "lib_commune": "KANDAR SIDI KHIAR",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25424,
+    "lib_commune": "LAGNADIZ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24223,
+    "lib_commune": "LAAGAGCHA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 25372,
+    "lib_commune": "MAADNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 50026,
+    "lib_commune": "MAJJATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83032,
+    "lib_commune": "LAMNIZLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81014,
+    "lib_commune": "LAQSABI TAGOUST",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41074,
+    "lib_commune": "LALLA AAZIZA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14110,
+    "lib_commune": "MEHDIA",
+    "SLA": 4,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24373,
+    "lib_commune": "LMECHREK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 64122,
+    "lib_commune": "MRIJA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91054,
+    "lib_commune": "MTIOUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34054,
+    "lib_commune": "MKANSA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91152,
+    "lib_commune": "MOQRISSAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 60025,
+    "lib_commune": "MESTFERKI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26023,
+    "lib_commune": "MZOURA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44022,
+    "lib_commune": "MOULAY BOU ZARQTOUNE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24004,
+    "lib_commune": "OULAD AMRANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26063,
+    "lib_commune": "OULAD CHBANA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 52172,
+    "lib_commune": "OUAD NAAM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22573,
+    "lib_commune": "OUAOULA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35250,
+    "lib_commune": "OUAD AMLIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24302,
+    "lib_commune": "OULAD FREJ",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44023,
+    "lib_commune": "OULAD MRABET",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26312,
+    "lib_commune": "OULAD ZIDANE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83073,
+    "lib_commune": "OUZIOUA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 41003,
+    "lib_commune": "OULAD MOUMNA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26702,
+    "lib_commune": "OULAD SAID LOULAD",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 43305,
+    "lib_commune": "OULAD IMLOUL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 81034,
+    "lib_commune": "RAS OUMLIL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 14065,
+    "lib_commune": "OULAD SLAMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 72013,
+    "lib_commune": "SIDI AHMED LAAROUSSI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44026,
+    "lib_commune": "SIDI ALI EL KORATI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 24226,
+    "lib_commune": "SANIAT BERGUIG",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 11022,
+    "lib_commune": "SHOUL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 46155,
+    "lib_commune": "SAADLA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83255,
+    "lib_commune": "SIDI BOAAL",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85072,
+    "lib_commune": "SIDI ABDALLAH OU BELAID",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34036,
+    "lib_commune": "SIDI MOKHFI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63255,
+    "lib_commune": "SIDI SLIMANE ECHCHERRAA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 53114,
+    "lib_commune": "SIDI EL MAKHFI",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 54016,
+    "lib_commune": "SIDI HCINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87203,
+    "lib_commune": "SIDI BOUSHAB",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 31024,
+    "lib_commune": "SIDI YOUSSEF BEN AHMED",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85553,
+    "lib_commune": "SIDI MBARK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44132,
+    "lib_commune": "TAKATE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 61252,
+    "lib_commune": "TALSINT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42303,
+    "lib_commune": "STI FADMA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 63752,
+    "lib_commune": "TAFOUGHALT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26401,
+    "lib_commune": "SOUALEM",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42312,
+    "lib_commune": "TAMESLOHTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 22502,
+    "lib_commune": "TAGLEFT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 42101,
+    "lib_commune": "TIGHEDOUINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 82014,
+    "lib_commune": "TILEMZOUN",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 85485,
+    "lib_commune": "TARSOUAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35062,
+    "lib_commune": "TAZARINE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 47074,
+    "lib_commune": "TANSIFTE",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 83224,
+    "lib_commune": "TIOUT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 34150,
+    "lib_commune": "THAR ESSOUK",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 32034,
+    "lib_commune": "ZARKAT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 74012,
+    "lib_commune": "ZOUG",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 26675,
+    "lib_commune": "TOUALET",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 35056,
+    "lib_commune": "TRAIBA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 87125,
+    "lib_commune": "TIZI NTAKOUCHT",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91022,
+    "lib_commune": "AIN BEIDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 44004,
+    "lib_commune": "ZAOUIAT BEN HMIDA",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 92150,
+    "lib_commune": "KSAR EL KEBIR",
+    "SLA": 3,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 93250,
+    "lib_commune": "OUED LAOU",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  },
+  {
+    "code_postal": 91172,
+    "lib_commune": "BNI SMIH",
+    "SLA": 7,
+    "Transporteur": "Chronodiali"
+  }
+]
