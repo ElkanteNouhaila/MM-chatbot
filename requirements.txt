@@ -4,3 +4,4 @@ nltk
 pyodbc
 numpy
 flask-cors
+gunicorn
