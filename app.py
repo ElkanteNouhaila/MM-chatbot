@@ -7,7 +7,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 from tensorflow.keras.models import load_model
 #from db_config import connect_to_db, search_product_info
-#import os
+import os
 
 app = Flask(__name__)
 
@@ -202,8 +202,8 @@ def chat():
         return jsonify({"error": "Une erreur est survenue"}), 500
 
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
 
-            
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)     
 
