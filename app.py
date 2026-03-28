@@ -160,6 +160,8 @@ def chat():
     try:
         data = request.get_json()
         print("DATA REÇUE:", data)
+        if not data or "message" not in data:
+            return jsonify({"error": "No message received"})
         print("Current working dir:", os.getcwd())
         print("Files in current dir:", os.listdir())
         message = data["message"].strip()
@@ -204,8 +206,8 @@ def chat():
 
     except Exception as e:
         print("ERROR:", str(e))
-        traceback.print_exc()   
-        return jsonify({"error": "Une erreur est survenue"})
+        traceback.print_exc()
+        return jsonify({"error": str(e)})
 
 
 
