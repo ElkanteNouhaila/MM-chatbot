@@ -333,4 +333,5 @@ button:disabled {
     background: url('../static/images/loading-spinner.gif') no-repeat center;
     background-size: contain;
     transform: translateY(-50%);
+    display: none;
 }

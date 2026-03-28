@@ -7,10 +7,12 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 from tensorflow.keras.models import load_model
 import traceback
+from flask_cors import CORS
 #from db_config import connect_to_db, search_product_info
 import os
 
 app = Flask(__name__)
+CORS(app)
 
 # Configuration du CORS
 '''CORS(app, resources={
