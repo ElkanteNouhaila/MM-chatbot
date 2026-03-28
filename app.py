@@ -160,6 +160,8 @@ def chat():
     try:
         data = request.get_json()
         print("DATA REÇUE:", data)
+        print("Current working dir:", os.getcwd())
+        print("Files in current dir:", os.listdir())
         message = data["message"].strip()
         postal_code = data.get("code_postal", None)
         city = data.get("lib_commune", None)
