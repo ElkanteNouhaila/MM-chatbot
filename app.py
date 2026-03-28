@@ -11,6 +11,7 @@ import traceback
 from flask_cors import CORS
 #from db_config import connect_to_db, search_product_info
 import os
+nltk.download('punkt_tab')
 nltk.download('punkt')
 nltk.download('wordnet')
 
