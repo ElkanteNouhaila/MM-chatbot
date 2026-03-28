@@ -3,6 +3,7 @@ import random
 import pickle
 import numpy as np
 from flask import Flask, request, jsonify, render_template
+import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 from tensorflow.keras.models import load_model
@@ -10,6 +11,8 @@ import traceback
 from flask_cors import CORS
 #from db_config import connect_to_db, search_product_info
 import os
+nltk.download('punkt')
+nltk.download('wordnet')
 
 app = Flask(__name__)
 CORS(app)
