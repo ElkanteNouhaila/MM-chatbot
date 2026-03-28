@@ -101,7 +101,7 @@ async function sendMessage() {
 
 
     try {
-        let response = await fetch("https://mm-chatbot-2.onrender.com/chat", {
+        let response = await fetch("/chat", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
@@ -111,12 +111,8 @@ async function sendMessage() {
                 lib_commune: cityName || null
             })
         });
-        console.log("Status:", response.status);
-
 
         let data = await response.json();
-        console.log("Response from backend:", data);
-
         chatbox.removeChild(loadingMsg);
 
         // Afficher réponse bot 

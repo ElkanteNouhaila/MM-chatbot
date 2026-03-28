@@ -3,20 +3,13 @@ import random
 import pickle
 import numpy as np
 from flask import Flask, request, jsonify, render_template
-import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 from tensorflow.keras.models import load_model
-import traceback
-from flask_cors import CORS
 #from db_config import connect_to_db, search_product_info
 import os
-nltk.download('punkt_tab')
-nltk.download('punkt')
-nltk.download('wordnet')
 
 app = Flask(__name__)
-CORS(app)
 
 # Configuration du CORS
 '''CORS(app, resources={
@@ -164,10 +157,6 @@ def chat():
     try:
         data = request.get_json()
         print("DATA REÇUE:", data)
-        if not data or "message" not in data:
-            return jsonify({"error": "No message received"})
-        print("Current working dir:", os.getcwd())
-        print("Files in current dir:", os.listdir())
         message = data["message"].strip()
         postal_code = data.get("code_postal", None)
         city = data.get("lib_commune", None)
@@ -209,9 +198,8 @@ def chat():
         return jsonify({"response": response})
 
     except Exception as e:
-        print("ERROR:", str(e))
-        traceback.print_exc()
-        return jsonify({"error": str(e)})
+        print(f"Erreur: {str(e)}")
+        return jsonify({"error": "Une erreur est survenue"}), 500
 
 
 
