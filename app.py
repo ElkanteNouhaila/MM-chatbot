@@ -6,6 +6,7 @@ from flask import Flask, request, jsonify, render_template
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 from tensorflow.keras.models import load_model
+import traceback
 #from db_config import connect_to_db, search_product_info
 import os
 
@@ -198,8 +199,9 @@ def chat():
         return jsonify({"response": response})
 
     except Exception as e:
-        print(f"Erreur: {str(e)}")
-        return jsonify({"error": "Une erreur est survenue"}), 500
+        print("ERROR:", str(e))
+        traceback.print_exc()   
+        return jsonify({"error": "Une erreur est survenue"})
 
 
 
